@@ -13,6 +13,7 @@ import {
 import MuseTags from './tags';
 import Hosted from './hosted';
 import PerformingArtists from './performing-artists';
+import TabbedContent from './tabbed-content';
 class MuseTitle extends Component{
   constructor(props){
     super(props);
@@ -29,6 +30,22 @@ class MuseTitle extends Component{
     );
   }
   museClick(e){
+
+  }
+}
+class MuseAbout extends Component{
+  constructor(props){
+    super(props);
+  }
+  render(){
+    return(
+      <View>
+        <Text style={{fontSize: 15}}>About</Text>
+        <Text style={{fontSize: 13}}>{this.props.about}</Text>
+      </View>
+    );
+  }
+  moreClick(){
 
   }
 }
@@ -59,7 +76,9 @@ export default class Cover extends Component{
         <MuseTitle title={detail.name}></MuseTitle>
         <MuseTags tags={detail.tags}></MuseTags>
         <Hosted venue={venue} date={date} city={city}/>
+        <MuseAbout about={detail.about}/>
         <PerformingArtists artists={artists}/>
+        <TabbedContent></TabbedContent>
       </View>
     );
   }

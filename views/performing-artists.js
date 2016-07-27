@@ -19,16 +19,19 @@ export default class PerformingArtists extends Component{
       dataSource: ds.cloneWithRows(this.props.artists),
     };
   }
+
   render(){
+    var key = 0;
+    var contents = this.props.artists.map((artist)=>{
+      key+=1;
+      return <TouchableHighlight key={key} onPress={()=>this.artistClick(artist)}>
+        <Image source={{uri: artist.industry_entity.profile_photo.formats.micro}} style={{width:100,height:100}}/>
+      </TouchableHighlight>
+    });
     return(
-      <ListView
-        dataSource={this.state.dataSource}
-        renderRow={(artist) =>
-          <TouchableHighlight onPress={()=>this.artistClick(artist)}>
-            <Image source={{uri: artist.industry_entity.profile_photo.formats.micro}} style={{width:100,height:100}}/>
-          </TouchableHighlight>
-        }
-      />
+      <View>
+        {contents}
+      </View>
     );
   }
   artistClick(artist){
