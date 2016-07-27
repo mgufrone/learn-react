@@ -20,7 +20,7 @@ export default class TabbedContent extends Component{
   render(){
     return (
       <ScrollableTabView
-      style={{marginTop: 20, }}
+      style={{marginTop: 20, marginBottom: 40}}
       initialPage={0}
       renderTabBar={() => <ScrollableTabBar />}
     >
