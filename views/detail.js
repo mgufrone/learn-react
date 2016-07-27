@@ -71,8 +71,8 @@ export default class Cover extends Component{
     var date = [detail.starts_at,detail.ends_at];
     var city = detail.city;
     return (
-      <View>
-        <Image source={cover} style={{resizeMode: 'contain','width':Dimensions.get('window').width,'height':155}}/>
+      <View style={{flexDirection:'column'}}>
+        <Image source={cover} style={{resizeMode: 'stretch','width':Dimensions.get('window').width,'height':155}}/>
         <MuseTitle title={detail.name}></MuseTitle>
         <MuseTags tags={detail.tags}></MuseTags>
         <Hosted venue={venue} date={date} city={city}/>

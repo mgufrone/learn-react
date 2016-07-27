@@ -21,19 +21,18 @@ export default class MuseTags extends Component{
     };
   }
   render(){
+    var content = this.props.tags.map((tag,key) =>{
+      return <TouchableHighlight key={key} onPress={()=>this.tagClick(tag)}>
+        <Text style={{
+        fontSize: 13,
+        marginLeft: 10,
+        color: '#303030',}}>{tag.name}</Text>
+      </TouchableHighlight>
+    });
     return(
-      <ListView
-        dataSource={this.state.dataSource}
-        renderRow={(tag) =>
-          <TouchableHighlight onPress={()=>this.tagClick(tag)}>
-            <Text style={{
-            fontSize: 18,
-            flexDirection: "column",
-            flex: 1,
-            color: '#303030',}}>{tag.name}</Text>
-          </TouchableHighlight>
-        }
-      />
+      <View style={{alignItems:'flex-start',flexDirection:'row',}}>
+        {content}
+      </View>
     );
   }
   tagClick(tag){

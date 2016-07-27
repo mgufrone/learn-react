@@ -29,7 +29,7 @@ export default class PerformingArtists extends Component{
       </TouchableHighlight>
     });
     return(
-      <View>
+      <View style={{alignItems: 'stretch',flexDirection:'row'}}>
         {contents}
       </View>
     );

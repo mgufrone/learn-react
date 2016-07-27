@@ -1,0 +1,1199 @@
+{
+  "total": 53,
+  "per_page": 10,
+  "current_page": 1,
+  "last_page": 6,
+  "collection": [
+    {
+      "id": 2433,
+      "profile_photo_id": 114428,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "audio",
+      "resource": "http://api.soundcloud.com/tracks/6553471/stream",
+      "provider": "soundcloud",
+      "name": "Challa Dubstep 26.10.10 on BBC Radio, Friction",
+      "description": null,
+      "slug": "challa-dubstep-261010-on-bbc-radio-friction",
+      "is_active": 1,
+      "created_at": "04-Dec-2013 5:45pm",
+      "updated_at": "30-Jul-2015 4:53am",
+      "old_id": 4348,
+      "old_table": "core_songs",
+      "play_count": 0,
+      "previous_play_count": 0,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 114428,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/1a5efb71b032e53336930e25e80dd352.jpeg",
+        "provider": "url",
+        "name": "Challa Dubstep 26.10.10 on BBC Radio, Friction",
+        "description": null,
+        "slug": "challa-dubstep-261010-on-bbc-radio-friction-1",
+        "is_active": null,
+        "created_at": "30-Jul-2015 4:53am",
+        "updated_at": "30-Jul-2015 4:53am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/1a5efb71b032e53336930e25e80dd352.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/1a5efb71b032e53336930e25e80dd352.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/1a5efb71b032e53336930e25e80dd352.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/1a5efb71b032e53336930e25e80dd352.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/1a5efb71b032e53336930e25e80dd352.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/1a5efb71b032e53336930e25e80dd352.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/1a5efb71b032e53336930e25e80dd352.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/1a5efb71b032e53336930e25e80dd352.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/1a5efb71b032e53336930e25e80dd352.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 15,
+          "name": "Electronic",
+          "slug": "electronic",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:40am",
+          "updated_at": "09-Mar-2016 12:52am",
+          "old_id": 22,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2433,
+            "tag_id": 15,
+            "weight": null
+          }
+        },
+        {
+          "id": 37,
+          "name": "Cover",
+          "slug": "cover",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 6:06pm",
+          "updated_at": "16-Nov-2012 10:18pm",
+          "old_id": 46,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2433,
+            "tag_id": 37,
+            "weight": null
+          }
+        },
+        {
+          "id": 187,
+          "name": "Folk rock",
+          "slug": "folk-rock",
+          "is_active": 1,
+          "created_at": "06-Sep-2012 8:57am",
+          "updated_at": "06-Sep-2012 8:57am",
+          "old_id": 7,
+          "old_table": "core_genres",
+          "pivot": {
+            "tagable_item_id": 2433,
+            "tag_id": 187,
+            "weight": null
+          }
+        }
+      ],
+      "stream_url": "http://api.soundcloud.com/tracks/6553471/stream",
+      "audio_id": "6553471",
+      "is_mused": false,
+      "musers": 0
+    },
+    {
+      "id": 2434,
+      "profile_photo_id": 114429,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "audio",
+      "resource": "http://api.soundcloud.com/tracks/6520374/stream",
+      "provider": "soundcloud",
+      "name": "Hari & Sukhmani on Friction, 25.10.10",
+      "description": null,
+      "slug": "hari-sukhmani-on-friction-251010",
+      "is_active": 1,
+      "created_at": "04-Dec-2013 5:45pm",
+      "updated_at": "30-Jul-2015 4:53am",
+      "old_id": 4349,
+      "old_table": "core_songs",
+      "play_count": 0,
+      "previous_play_count": 0,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 114429,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/d23400dd638268b5f6b51474f22c794d.jpeg",
+        "provider": "url",
+        "name": "Hari & Sukhmani on Friction, 25.10.10",
+        "description": null,
+        "slug": "hari-sukhmani-on-friction-251010-1",
+        "is_active": null,
+        "created_at": "30-Jul-2015 4:53am",
+        "updated_at": "30-Jul-2015 4:53am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/d23400dd638268b5f6b51474f22c794d.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/d23400dd638268b5f6b51474f22c794d.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/d23400dd638268b5f6b51474f22c794d.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/d23400dd638268b5f6b51474f22c794d.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/d23400dd638268b5f6b51474f22c794d.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/d23400dd638268b5f6b51474f22c794d.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/d23400dd638268b5f6b51474f22c794d.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/d23400dd638268b5f6b51474f22c794d.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/d23400dd638268b5f6b51474f22c794d.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 15,
+          "name": "Electronic",
+          "slug": "electronic",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:40am",
+          "updated_at": "09-Mar-2016 12:52am",
+          "old_id": 22,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2434,
+            "tag_id": 15,
+            "weight": 0
+          }
+        },
+        {
+          "id": 33,
+          "name": "Folk ",
+          "slug": "folk",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 5:40pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 42,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2434,
+            "tag_id": 33,
+            "weight": 0
+          }
+        }
+      ],
+      "stream_url": "http://api.soundcloud.com/tracks/6520374/stream",
+      "audio_id": "6520374",
+      "is_mused": false,
+      "musers": 0
+    },
+    {
+      "id": 2435,
+      "profile_photo_id": 114430,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "audio",
+      "resource": "http://api.soundcloud.com/tracks/6454667/stream",
+      "provider": "soundcloud",
+      "name": "Hari ? Sukhmani - Tilley Waliya",
+      "description": null,
+      "slug": "hari-sukhmani-tilley-waliya",
+      "is_active": 1,
+      "created_at": "04-Dec-2013 5:45pm",
+      "updated_at": "30-Jul-2015 4:53am",
+      "old_id": 4350,
+      "old_table": "core_songs",
+      "play_count": 0,
+      "previous_play_count": 0,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 114430,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/d903b4ced7d05004f1dc76c53b080150.jpeg",
+        "provider": "url",
+        "name": "Hari ? Sukhmani - Tilley Waliya",
+        "description": null,
+        "slug": "hari-sukhmani-tilley-waliya-1",
+        "is_active": null,
+        "created_at": "30-Jul-2015 4:53am",
+        "updated_at": "30-Jul-2015 4:53am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/d903b4ced7d05004f1dc76c53b080150.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/d903b4ced7d05004f1dc76c53b080150.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/d903b4ced7d05004f1dc76c53b080150.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/d903b4ced7d05004f1dc76c53b080150.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/d903b4ced7d05004f1dc76c53b080150.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/d903b4ced7d05004f1dc76c53b080150.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/d903b4ced7d05004f1dc76c53b080150.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/d903b4ced7d05004f1dc76c53b080150.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/d903b4ced7d05004f1dc76c53b080150.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 2,
+          "name": "Original",
+          "slug": "original",
+          "is_active": 1,
+          "created_at": "26-Sep-2012 1:47pm",
+          "updated_at": "12-Dec-2013 2:07pm",
+          "old_id": 2,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2435,
+            "tag_id": 2,
+            "weight": null
+          }
+        },
+        {
+          "id": 15,
+          "name": "Electronic",
+          "slug": "electronic",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:40am",
+          "updated_at": "09-Mar-2016 12:52am",
+          "old_id": 22,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2435,
+            "tag_id": 15,
+            "weight": null
+          }
+        },
+        {
+          "id": 54,
+          "name": "Hindi",
+          "slug": "hindi",
+          "is_active": 1,
+          "created_at": "09-Oct-2012 1:49pm",
+          "updated_at": "04-Mar-2013 1:40pm",
+          "old_id": 70,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2435,
+            "tag_id": 54,
+            "weight": null
+          }
+        },
+        {
+          "id": 189,
+          "name": "Hindi Rock",
+          "slug": "hindi-rock",
+          "is_active": 1,
+          "created_at": "06-Sep-2012 8:57am",
+          "updated_at": "06-Sep-2012 8:57am",
+          "old_id": 9,
+          "old_table": "core_genres",
+          "pivot": {
+            "tagable_item_id": 2435,
+            "tag_id": 189,
+            "weight": null
+          }
+        }
+      ],
+      "stream_url": "http://api.soundcloud.com/tracks/6454667/stream",
+      "audio_id": "6454667",
+      "is_mused": false,
+      "musers": 0
+    },
+    {
+      "id": 2436,
+      "profile_photo_id": 114431,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "audio",
+      "resource": "http://api.soundcloud.com/tracks/5851575/stream",
+      "provider": "soundcloud",
+      "name": "Hari ? Sukhmani - Meri aisi jhanjar",
+      "description": null,
+      "slug": "hari-sukhmani-meri-aisi-jhanjar",
+      "is_active": 1,
+      "created_at": "04-Dec-2013 5:45pm",
+      "updated_at": "30-Jul-2015 4:53am",
+      "old_id": 4351,
+      "old_table": "core_songs",
+      "play_count": 0,
+      "previous_play_count": 0,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 114431,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/30c088af50e16a4b8ed86dd3dbbf3b7f.jpeg",
+        "provider": "url",
+        "name": "Hari ? Sukhmani - Meri aisi jhanjar",
+        "description": null,
+        "slug": "hari-sukhmani-meri-aisi-jhanjar-1",
+        "is_active": null,
+        "created_at": "30-Jul-2015 4:53am",
+        "updated_at": "30-Jul-2015 4:53am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/30c088af50e16a4b8ed86dd3dbbf3b7f.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/30c088af50e16a4b8ed86dd3dbbf3b7f.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/30c088af50e16a4b8ed86dd3dbbf3b7f.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/30c088af50e16a4b8ed86dd3dbbf3b7f.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/30c088af50e16a4b8ed86dd3dbbf3b7f.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/30c088af50e16a4b8ed86dd3dbbf3b7f.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/30c088af50e16a4b8ed86dd3dbbf3b7f.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/30c088af50e16a4b8ed86dd3dbbf3b7f.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/30c088af50e16a4b8ed86dd3dbbf3b7f.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 15,
+          "name": "Electronic",
+          "slug": "electronic",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:40am",
+          "updated_at": "09-Mar-2016 12:52am",
+          "old_id": 22,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2436,
+            "tag_id": 15,
+            "weight": null
+          }
+        },
+        {
+          "id": 37,
+          "name": "Cover",
+          "slug": "cover",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 6:06pm",
+          "updated_at": "16-Nov-2012 10:18pm",
+          "old_id": 46,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2436,
+            "tag_id": 37,
+            "weight": null
+          }
+        },
+        {
+          "id": 54,
+          "name": "Hindi",
+          "slug": "hindi",
+          "is_active": 1,
+          "created_at": "09-Oct-2012 1:49pm",
+          "updated_at": "04-Mar-2013 1:40pm",
+          "old_id": 70,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2436,
+            "tag_id": 54,
+            "weight": null
+          }
+        },
+        {
+          "id": 78,
+          "name": "Hindi Dub",
+          "slug": "hindi-dub",
+          "is_active": 1,
+          "created_at": "26-Feb-2013 2:57pm",
+          "updated_at": "28-Jul-2013 6:04am",
+          "old_id": 99,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2436,
+            "tag_id": 78,
+            "weight": null
+          }
+        },
+        {
+          "id": 189,
+          "name": "Hindi Rock",
+          "slug": "hindi-rock",
+          "is_active": 1,
+          "created_at": "06-Sep-2012 8:57am",
+          "updated_at": "06-Sep-2012 8:57am",
+          "old_id": 9,
+          "old_table": "core_genres",
+          "pivot": {
+            "tagable_item_id": 2436,
+            "tag_id": 189,
+            "weight": null
+          }
+        }
+      ],
+      "stream_url": "http://api.soundcloud.com/tracks/5851575/stream",
+      "audio_id": "5851575",
+      "is_mused": false,
+      "musers": 2
+    },
+    {
+      "id": 2437,
+      "profile_photo_id": 114432,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "audio",
+      "resource": "http://api.soundcloud.com/tracks/5368502/stream",
+      "provider": "soundcloud",
+      "name": "Challa",
+      "description": null,
+      "slug": "challa",
+      "is_active": 1,
+      "created_at": "04-Dec-2013 5:45pm",
+      "updated_at": "30-Jul-2015 4:53am",
+      "old_id": 4352,
+      "old_table": "core_songs",
+      "play_count": 0,
+      "previous_play_count": 0,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 114432,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/b28ce51b0b05fb48e2513ae22eeda8b8.jpeg",
+        "provider": "url",
+        "name": "Challa",
+        "description": null,
+        "slug": "challa-1",
+        "is_active": null,
+        "created_at": "30-Jul-2015 4:53am",
+        "updated_at": "30-Jul-2015 4:53am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/b28ce51b0b05fb48e2513ae22eeda8b8.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/b28ce51b0b05fb48e2513ae22eeda8b8.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/b28ce51b0b05fb48e2513ae22eeda8b8.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/b28ce51b0b05fb48e2513ae22eeda8b8.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/b28ce51b0b05fb48e2513ae22eeda8b8.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/b28ce51b0b05fb48e2513ae22eeda8b8.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/b28ce51b0b05fb48e2513ae22eeda8b8.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/b28ce51b0b05fb48e2513ae22eeda8b8.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/b28ce51b0b05fb48e2513ae22eeda8b8.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 15,
+          "name": "Electronic",
+          "slug": "electronic",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:40am",
+          "updated_at": "09-Mar-2016 12:52am",
+          "old_id": 22,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2437,
+            "tag_id": 15,
+            "weight": null
+          }
+        },
+        {
+          "id": 33,
+          "name": "Folk ",
+          "slug": "folk",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 5:40pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 42,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2437,
+            "tag_id": 33,
+            "weight": null
+          }
+        },
+        {
+          "id": 37,
+          "name": "Cover",
+          "slug": "cover",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 6:06pm",
+          "updated_at": "16-Nov-2012 10:18pm",
+          "old_id": 46,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2437,
+            "tag_id": 37,
+            "weight": null
+          }
+        },
+        {
+          "id": 54,
+          "name": "Hindi",
+          "slug": "hindi",
+          "is_active": 1,
+          "created_at": "09-Oct-2012 1:49pm",
+          "updated_at": "04-Mar-2013 1:40pm",
+          "old_id": 70,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2437,
+            "tag_id": 54,
+            "weight": null
+          }
+        },
+        {
+          "id": 78,
+          "name": "Hindi Dub",
+          "slug": "hindi-dub",
+          "is_active": 1,
+          "created_at": "26-Feb-2013 2:57pm",
+          "updated_at": "28-Jul-2013 6:04am",
+          "old_id": 99,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2437,
+            "tag_id": 78,
+            "weight": null
+          }
+        },
+        {
+          "id": 187,
+          "name": "Folk rock",
+          "slug": "folk-rock",
+          "is_active": 1,
+          "created_at": "06-Sep-2012 8:57am",
+          "updated_at": "06-Sep-2012 8:57am",
+          "old_id": 7,
+          "old_table": "core_genres",
+          "pivot": {
+            "tagable_item_id": 2437,
+            "tag_id": 187,
+            "weight": null
+          }
+        }
+      ],
+      "stream_url": "http://api.soundcloud.com/tracks/5368502/stream",
+      "audio_id": "5368502",
+      "is_mused": false,
+      "musers": 2
+    },
+    {
+      "id": 2438,
+      "profile_photo_id": 114433,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "audio",
+      "resource": "http://api.soundcloud.com/tracks/5368438/stream",
+      "provider": "soundcloud",
+      "name": "Boohey Bariyan",
+      "description": null,
+      "slug": "boohey-bariyan",
+      "is_active": 1,
+      "created_at": "04-Dec-2013 5:45pm",
+      "updated_at": "30-Jul-2015 4:53am",
+      "old_id": 4353,
+      "old_table": "core_songs",
+      "play_count": 0,
+      "previous_play_count": 0,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 114433,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/a1726ffa324b7830a0acb0c35584523d.jpeg",
+        "provider": "url",
+        "name": "Boohey Bariyan",
+        "description": null,
+        "slug": "boohey-bariyan-1",
+        "is_active": null,
+        "created_at": "30-Jul-2015 4:53am",
+        "updated_at": "30-Jul-2015 4:53am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/a1726ffa324b7830a0acb0c35584523d.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/a1726ffa324b7830a0acb0c35584523d.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/a1726ffa324b7830a0acb0c35584523d.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/a1726ffa324b7830a0acb0c35584523d.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/a1726ffa324b7830a0acb0c35584523d.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/a1726ffa324b7830a0acb0c35584523d.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/a1726ffa324b7830a0acb0c35584523d.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/a1726ffa324b7830a0acb0c35584523d.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/a1726ffa324b7830a0acb0c35584523d.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 2,
+          "name": "Original",
+          "slug": "original",
+          "is_active": 1,
+          "created_at": "26-Sep-2012 1:47pm",
+          "updated_at": "12-Dec-2013 2:07pm",
+          "old_id": 2,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2438,
+            "tag_id": 2,
+            "weight": null
+          }
+        },
+        {
+          "id": 15,
+          "name": "Electronic",
+          "slug": "electronic",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:40am",
+          "updated_at": "09-Mar-2016 12:52am",
+          "old_id": 22,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2438,
+            "tag_id": 15,
+            "weight": null
+          }
+        },
+        {
+          "id": 33,
+          "name": "Folk ",
+          "slug": "folk",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 5:40pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 42,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2438,
+            "tag_id": 33,
+            "weight": null
+          }
+        },
+        {
+          "id": 54,
+          "name": "Hindi",
+          "slug": "hindi",
+          "is_active": 1,
+          "created_at": "09-Oct-2012 1:49pm",
+          "updated_at": "04-Mar-2013 1:40pm",
+          "old_id": 70,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2438,
+            "tag_id": 54,
+            "weight": null
+          }
+        },
+        {
+          "id": 78,
+          "name": "Hindi Dub",
+          "slug": "hindi-dub",
+          "is_active": 1,
+          "created_at": "26-Feb-2013 2:57pm",
+          "updated_at": "28-Jul-2013 6:04am",
+          "old_id": 99,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 2438,
+            "tag_id": 78,
+            "weight": null
+          }
+        },
+        {
+          "id": 187,
+          "name": "Folk rock",
+          "slug": "folk-rock",
+          "is_active": 1,
+          "created_at": "06-Sep-2012 8:57am",
+          "updated_at": "06-Sep-2012 8:57am",
+          "old_id": 7,
+          "old_table": "core_genres",
+          "pivot": {
+            "tagable_item_id": 2438,
+            "tag_id": 187,
+            "weight": null
+          }
+        }
+      ],
+      "stream_url": "http://api.soundcloud.com/tracks/5368438/stream",
+      "audio_id": "5368438",
+      "is_mused": false,
+      "musers": 2
+    },
+    {
+      "id": 20383,
+      "profile_photo_id": 120324,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "audio",
+      "resource": "https://api.soundcloud.com/tracks/165676328/stream",
+      "provider": "soundcloud",
+      "name": "Come On",
+      "description": "The new single from Dualist Inquiry's upcoming EP, 'Natural Disasters' \n\nOut 8 September as a free download via Dualism Records",
+      "slug": "come-on",
+      "is_active": null,
+      "created_at": "06-Sep-2014 12:17am",
+      "updated_at": "30-Jul-2015 8:40am",
+      "old_id": 0,
+      "old_table": "",
+      "play_count": 0,
+      "previous_play_count": 0,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 120324,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/a97648ea3fb6f55208b756a3b591fff7.jpeg",
+        "provider": "url",
+        "name": "Come On",
+        "description": null,
+        "slug": "come-on-1",
+        "is_active": null,
+        "created_at": "30-Jul-2015 8:40am",
+        "updated_at": "30-Jul-2015 8:40am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/a97648ea3fb6f55208b756a3b591fff7.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/a97648ea3fb6f55208b756a3b591fff7.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/a97648ea3fb6f55208b756a3b591fff7.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/a97648ea3fb6f55208b756a3b591fff7.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/a97648ea3fb6f55208b756a3b591fff7.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/a97648ea3fb6f55208b756a3b591fff7.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/a97648ea3fb6f55208b756a3b591fff7.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/a97648ea3fb6f55208b756a3b591fff7.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/a97648ea3fb6f55208b756a3b591fff7.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 2,
+          "name": "Original",
+          "slug": "original",
+          "is_active": 1,
+          "created_at": "26-Sep-2012 1:47pm",
+          "updated_at": "12-Dec-2013 2:07pm",
+          "old_id": 2,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 20383,
+            "tag_id": 2,
+            "weight": null
+          }
+        },
+        {
+          "id": 15,
+          "name": "Electronic",
+          "slug": "electronic",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:40am",
+          "updated_at": "09-Mar-2016 12:52am",
+          "old_id": 22,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 20383,
+            "tag_id": 15,
+            "weight": null
+          }
+        },
+        {
+          "id": 16,
+          "name": "Rock",
+          "slug": "rock",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:41am",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 23,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 20383,
+            "tag_id": 16,
+            "weight": null
+          }
+        }
+      ],
+      "stream_url": "https://api.soundcloud.com/tracks/165676328/stream",
+      "audio_id": "165676328",
+      "is_mused": false,
+      "musers": 1
+    },
+    {
+      "id": 20385,
+      "profile_photo_id": 120325,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "audio",
+      "resource": "https://api.soundcloud.com/tracks/95821316/stream",
+      "provider": "soundcloud",
+      "name": "Swarathma - Naane Daari (Dualist Inquiry remix) Free Download",
+      "description": "Free download in hi-definition format of your choice! \r\n\r\nhttp://dualismrecords.bandcamp.com/\r\n\r\nAcclaimed folk rock band come together with electronic artist to launch a remix of \"Naane Daari\", a song that celebrates the power of youth. \r\n\r\nAbout - Swara",
+      "slug": "swarathma-naane-daari-dualist-inquiry-remix-free-download",
+      "is_active": null,
+      "created_at": "06-Sep-2014 12:17am",
+      "updated_at": "30-Jul-2015 8:40am",
+      "old_id": 0,
+      "old_table": "",
+      "play_count": 0,
+      "previous_play_count": 0,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 120325,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/97314f41a8ade88a22031d9da14b4cee.jpeg",
+        "provider": "url",
+        "name": "Swarathma - Naane Daari (Dualist Inquiry remix) Free Download",
+        "description": null,
+        "slug": "swarathma-naane-daari-dualist-inquiry-remix-free-download-1",
+        "is_active": null,
+        "created_at": "30-Jul-2015 8:40am",
+        "updated_at": "30-Jul-2015 8:40am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/97314f41a8ade88a22031d9da14b4cee.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/97314f41a8ade88a22031d9da14b4cee.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/97314f41a8ade88a22031d9da14b4cee.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/97314f41a8ade88a22031d9da14b4cee.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/97314f41a8ade88a22031d9da14b4cee.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/97314f41a8ade88a22031d9da14b4cee.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/97314f41a8ade88a22031d9da14b4cee.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/97314f41a8ade88a22031d9da14b4cee.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/97314f41a8ade88a22031d9da14b4cee.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 7,
+          "name": "Remix",
+          "slug": "remix",
+          "is_active": 1,
+          "created_at": "27-Sep-2012 6:37pm",
+          "updated_at": "30-Jul-2013 7:23pm",
+          "old_id": 10,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 20385,
+            "tag_id": 7,
+            "weight": null
+          }
+        },
+        {
+          "id": 19,
+          "name": "Electronica ",
+          "slug": "electronica",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:45am",
+          "updated_at": "30-Jul-2013 7:23pm",
+          "old_id": 27,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 20385,
+            "tag_id": 19,
+            "weight": null
+          }
+        },
+        {
+          "id": 22,
+          "name": "Deep House",
+          "slug": "deep-house",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 4:37pm",
+          "updated_at": "04-Aug-2013 7:30pm",
+          "old_id": 30,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 20385,
+            "tag_id": 22,
+            "weight": null
+          }
+        }
+      ],
+      "stream_url": "https://api.soundcloud.com/tracks/95821316/stream",
+      "audio_id": "95821316",
+      "is_mused": false,
+      "musers": 1
+    },
+    {
+      "id": 20388,
+      "profile_photo_id": 120326,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "audio",
+      "resource": "https://api.soundcloud.com/tracks/82714824/stream",
+      "provider": "soundcloud",
+      "name": "Exile",
+      "description": "The second single from Dualist Inquiry's new album, 'Doppelganger'!\r\n\r\nFull length album out for free download, March 15.",
+      "slug": "exile",
+      "is_active": null,
+      "created_at": "06-Sep-2014 12:17am",
+      "updated_at": "30-Jul-2015 8:40am",
+      "old_id": 0,
+      "old_table": "",
+      "play_count": 0,
+      "previous_play_count": 0,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 120326,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/bd9512d49ba6edb60a618e2f64446ee8.jpeg",
+        "provider": "url",
+        "name": "Exile",
+        "description": null,
+        "slug": "exile-3",
+        "is_active": null,
+        "created_at": "30-Jul-2015 8:40am",
+        "updated_at": "30-Jul-2015 8:40am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/bd9512d49ba6edb60a618e2f64446ee8.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/bd9512d49ba6edb60a618e2f64446ee8.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/bd9512d49ba6edb60a618e2f64446ee8.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/bd9512d49ba6edb60a618e2f64446ee8.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/bd9512d49ba6edb60a618e2f64446ee8.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/bd9512d49ba6edb60a618e2f64446ee8.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/bd9512d49ba6edb60a618e2f64446ee8.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/bd9512d49ba6edb60a618e2f64446ee8.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/bd9512d49ba6edb60a618e2f64446ee8.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 2,
+          "name": "Original",
+          "slug": "original",
+          "is_active": 1,
+          "created_at": "26-Sep-2012 1:47pm",
+          "updated_at": "12-Dec-2013 2:07pm",
+          "old_id": 2,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 20388,
+            "tag_id": 2,
+            "weight": null
+          }
+        },
+        {
+          "id": 19,
+          "name": "Electronica ",
+          "slug": "electronica",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:45am",
+          "updated_at": "30-Jul-2013 7:23pm",
+          "old_id": 27,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 20388,
+            "tag_id": 19,
+            "weight": null
+          }
+        }
+      ],
+      "stream_url": "https://api.soundcloud.com/tracks/82714824/stream",
+      "audio_id": "82714824",
+      "is_mused": false,
+      "musers": 1
+    },
+    {
+      "id": 20390,
+      "profile_photo_id": 120327,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "audio",
+      "resource": "https://api.soundcloud.com/tracks/30774989/stream",
+      "provider": "soundcloud",
+      "name": "Pretty Lights - Finally Moving (Dualist Bootleg Remix)",
+      "description": "Dualist Inquiry's remix of Pretty Lights' 'Finally Moving'\r\nFree download on www.dualistinquiry.com",
+      "slug": "pretty-lights-finally-moving-dualist-bootleg-remix-1",
+      "is_active": null,
+      "created_at": "06-Sep-2014 12:17am",
+      "updated_at": "30-Jul-2015 8:40am",
+      "old_id": 0,
+      "old_table": "",
+      "play_count": 0,
+      "previous_play_count": 0,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 120327,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/aefe640d56ea4f13c27b9b04494161cc.jpeg",
+        "provider": "url",
+        "name": "Pretty Lights - Finally Moving (Dualist Bootleg Remix)",
+        "description": null,
+        "slug": "pretty-lights-finally-moving-dualist-bootleg-remix-3",
+        "is_active": null,
+        "created_at": "30-Jul-2015 8:40am",
+        "updated_at": "30-Jul-2015 8:40am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/aefe640d56ea4f13c27b9b04494161cc.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/aefe640d56ea4f13c27b9b04494161cc.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/aefe640d56ea4f13c27b9b04494161cc.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/aefe640d56ea4f13c27b9b04494161cc.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/aefe640d56ea4f13c27b9b04494161cc.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/aefe640d56ea4f13c27b9b04494161cc.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/aefe640d56ea4f13c27b9b04494161cc.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/aefe640d56ea4f13c27b9b04494161cc.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/aefe640d56ea4f13c27b9b04494161cc.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 5,
+          "name": "Bootleg",
+          "slug": "bootleg",
+          "is_active": 1,
+          "created_at": "27-Sep-2012 6:27pm",
+          "updated_at": "27-Sep-2012 6:28pm",
+          "old_id": 8,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 20390,
+            "tag_id": 5,
+            "weight": null
+          }
+        },
+        {
+          "id": 22,
+          "name": "Deep House",
+          "slug": "deep-house",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 4:37pm",
+          "updated_at": "04-Aug-2013 7:30pm",
+          "old_id": 30,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 20390,
+            "tag_id": 22,
+            "weight": null
+          }
+        }
+      ],
+      "stream_url": "https://api.soundcloud.com/tracks/30774989/stream",
+      "audio_id": "30774989",
+      "is_mused": false,
+      "musers": 0
+    }
+  ],
+  "meta": []
+}

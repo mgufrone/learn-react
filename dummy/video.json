@@ -1,0 +1,1294 @@
+{
+  "total": 91,
+  "per_page": 10,
+  "current_page": 1,
+  "last_page": 10,
+  "collection": [
+    {
+      "id": 15867,
+      "profile_photo_id": 68806,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "video",
+      "resource": "laz3TJMDFmE",
+      "provider": "youtube",
+      "name": " Desert Rain",
+      "description": null,
+      "slug": "desert-rain-v",
+      "is_active": 1,
+      "created_at": "26-Sep-2012 1:45pm",
+      "updated_at": "14-Aug-2015 12:30pm",
+      "old_id": 5,
+      "old_table": "core_videos",
+      "play_count": 206157,
+      "previous_play_count": 206084,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 68806,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/f68a3a7814b0ee06fa98b526f1746d60.jpeg",
+        "provider": "url",
+        "name": " Desert Rain",
+        "description": null,
+        "slug": "desert-rain-1",
+        "is_active": null,
+        "created_at": "01-Nov-2014 5:32am",
+        "updated_at": "01-Nov-2014 5:32am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/f68a3a7814b0ee06fa98b526f1746d60.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/f68a3a7814b0ee06fa98b526f1746d60.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/f68a3a7814b0ee06fa98b526f1746d60.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/f68a3a7814b0ee06fa98b526f1746d60.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/f68a3a7814b0ee06fa98b526f1746d60.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/f68a3a7814b0ee06fa98b526f1746d60.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/f68a3a7814b0ee06fa98b526f1746d60.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/f68a3a7814b0ee06fa98b526f1746d60.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/f68a3a7814b0ee06fa98b526f1746d60.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 2,
+          "name": "Original",
+          "slug": "original",
+          "is_active": 1,
+          "created_at": "26-Sep-2012 1:47pm",
+          "updated_at": "12-Dec-2013 2:07pm",
+          "old_id": 2,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15867,
+            "tag_id": 2,
+            "weight": 0
+          }
+        },
+        {
+          "id": 16,
+          "name": "Rock",
+          "slug": "rock",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:41am",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 23,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15867,
+            "tag_id": 16,
+            "weight": 0
+          }
+        },
+        {
+          "id": 34,
+          "name": "Fusion ",
+          "slug": "fusion",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 5:44pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 43,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15867,
+            "tag_id": 34,
+            "weight": 0
+          }
+        },
+        {
+          "id": 54,
+          "name": "Hindi",
+          "slug": "hindi",
+          "is_active": 1,
+          "created_at": "09-Oct-2012 1:49pm",
+          "updated_at": "04-Mar-2013 1:40pm",
+          "old_id": 70,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15867,
+            "tag_id": 54,
+            "weight": 0
+          }
+        }
+      ],
+      "video_id": "laz3TJMDFmE",
+      "is_mused": false,
+      "musers": 1
+    },
+    {
+      "id": 15868,
+      "profile_photo_id": 68807,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "video",
+      "resource": "wqFy-SgYQho",
+      "provider": "youtube",
+      "name": "Bandeh - Black Friday by Indian Ocean",
+      "description": null,
+      "slug": "bandeh-black-friday-by-indian-ocean-v",
+      "is_active": 1,
+      "created_at": "26-Sep-2012 2:19pm",
+      "updated_at": "14-Aug-2015 12:30pm",
+      "old_id": 6,
+      "old_table": "core_videos",
+      "play_count": 420180,
+      "previous_play_count": 420107,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 68807,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/a41d73618247b02366fcbe5f071f7cd7.jpeg",
+        "provider": "url",
+        "name": "Bandeh - Black Friday by Indian Ocean",
+        "description": null,
+        "slug": "bandeh-black-friday-by-indian-ocean-1",
+        "is_active": null,
+        "created_at": "01-Nov-2014 5:32am",
+        "updated_at": "01-Nov-2014 5:32am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/a41d73618247b02366fcbe5f071f7cd7.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/a41d73618247b02366fcbe5f071f7cd7.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/a41d73618247b02366fcbe5f071f7cd7.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/a41d73618247b02366fcbe5f071f7cd7.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/a41d73618247b02366fcbe5f071f7cd7.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/a41d73618247b02366fcbe5f071f7cd7.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/a41d73618247b02366fcbe5f071f7cd7.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/a41d73618247b02366fcbe5f071f7cd7.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/a41d73618247b02366fcbe5f071f7cd7.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 2,
+          "name": "Original",
+          "slug": "original",
+          "is_active": 1,
+          "created_at": "26-Sep-2012 1:47pm",
+          "updated_at": "12-Dec-2013 2:07pm",
+          "old_id": 2,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15868,
+            "tag_id": 2,
+            "weight": 0
+          }
+        },
+        {
+          "id": 16,
+          "name": "Rock",
+          "slug": "rock",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:41am",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 23,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15868,
+            "tag_id": 16,
+            "weight": 5
+          }
+        },
+        {
+          "id": 34,
+          "name": "Fusion ",
+          "slug": "fusion",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 5:44pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 43,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15868,
+            "tag_id": 34,
+            "weight": 9
+          }
+        },
+        {
+          "id": 54,
+          "name": "Hindi",
+          "slug": "hindi",
+          "is_active": 1,
+          "created_at": "09-Oct-2012 1:49pm",
+          "updated_at": "04-Mar-2013 1:40pm",
+          "old_id": 70,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15868,
+            "tag_id": 54,
+            "weight": 0
+          }
+        }
+      ],
+      "video_id": "wqFy-SgYQho",
+      "is_mused": false,
+      "musers": 2
+    },
+    {
+      "id": 15884,
+      "profile_photo_id": 68823,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "video",
+      "resource": "7so7GxsCLos",
+      "provider": "youtube",
+      "name": "The Music Project : Dualist Inquiry",
+      "description": null,
+      "slug": "the-music-project-dualist-inquiry-v",
+      "is_active": 1,
+      "created_at": "01-Oct-2012 7:21pm",
+      "updated_at": "14-Aug-2015 12:30pm",
+      "old_id": 23,
+      "old_table": "core_videos",
+      "play_count": 77872,
+      "previous_play_count": 77834,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 68823,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/3466a8378423cb1014a306b35bae258e.jpeg",
+        "provider": "url",
+        "name": "The Music Project : Dualist Inquiry",
+        "description": null,
+        "slug": "the-music-project-dualist-inquiry-1",
+        "is_active": null,
+        "created_at": "01-Nov-2014 5:32am",
+        "updated_at": "01-Nov-2014 5:32am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/3466a8378423cb1014a306b35bae258e.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/3466a8378423cb1014a306b35bae258e.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/3466a8378423cb1014a306b35bae258e.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/3466a8378423cb1014a306b35bae258e.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/3466a8378423cb1014a306b35bae258e.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/3466a8378423cb1014a306b35bae258e.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/3466a8378423cb1014a306b35bae258e.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/3466a8378423cb1014a306b35bae258e.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/3466a8378423cb1014a306b35bae258e.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 7,
+          "name": "Remix",
+          "slug": "remix",
+          "is_active": 1,
+          "created_at": "27-Sep-2012 6:37pm",
+          "updated_at": "30-Jul-2013 7:23pm",
+          "old_id": 10,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15884,
+            "tag_id": 7,
+            "weight": 0
+          }
+        },
+        {
+          "id": 15,
+          "name": "Electronic",
+          "slug": "electronic",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:40am",
+          "updated_at": "09-Mar-2016 12:52am",
+          "old_id": 22,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15884,
+            "tag_id": 15,
+            "weight": 0
+          }
+        },
+        {
+          "id": 19,
+          "name": "Electronica ",
+          "slug": "electronica",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:45am",
+          "updated_at": "30-Jul-2013 7:23pm",
+          "old_id": 27,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15884,
+            "tag_id": 19,
+            "weight": 0
+          }
+        },
+        {
+          "id": 31,
+          "name": "Experimental ",
+          "slug": "experimental",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 4:55pm",
+          "updated_at": "12-Dec-2013 2:07pm",
+          "old_id": 39,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15884,
+            "tag_id": 31,
+            "weight": 0
+          }
+        }
+      ],
+      "video_id": "7so7GxsCLos",
+      "is_mused": false,
+      "musers": 5
+    },
+    {
+      "id": 15886,
+      "profile_photo_id": 68825,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "video",
+      "resource": "6Zun_zbfhpM",
+      "provider": "youtube",
+      "name": "Dualist Inquiry - Qualia",
+      "description": null,
+      "slug": "dualist-inquiry-qualia-v",
+      "is_active": 1,
+      "created_at": "01-Oct-2012 7:25pm",
+      "updated_at": "14-Aug-2015 12:30pm",
+      "old_id": 25,
+      "old_table": "core_videos",
+      "play_count": 35275,
+      "previous_play_count": 35258,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 68825,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/a3e6fa7c2e258b65fa9713938349de2b.jpeg",
+        "provider": "url",
+        "name": "Dualist Inquiry - Qualia",
+        "description": null,
+        "slug": "dualist-inquiry-qualia-1-p",
+        "is_active": null,
+        "created_at": "01-Nov-2014 5:32am",
+        "updated_at": "01-Nov-2014 5:32am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/a3e6fa7c2e258b65fa9713938349de2b.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/a3e6fa7c2e258b65fa9713938349de2b.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/a3e6fa7c2e258b65fa9713938349de2b.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/a3e6fa7c2e258b65fa9713938349de2b.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/a3e6fa7c2e258b65fa9713938349de2b.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/a3e6fa7c2e258b65fa9713938349de2b.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/a3e6fa7c2e258b65fa9713938349de2b.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/a3e6fa7c2e258b65fa9713938349de2b.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/a3e6fa7c2e258b65fa9713938349de2b.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 2,
+          "name": "Original",
+          "slug": "original",
+          "is_active": 1,
+          "created_at": "26-Sep-2012 1:47pm",
+          "updated_at": "12-Dec-2013 2:07pm",
+          "old_id": 2,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15886,
+            "tag_id": 2,
+            "weight": 0
+          }
+        },
+        {
+          "id": 15,
+          "name": "Electronic",
+          "slug": "electronic",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:40am",
+          "updated_at": "09-Mar-2016 12:52am",
+          "old_id": 22,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15886,
+            "tag_id": 15,
+            "weight": 0
+          }
+        },
+        {
+          "id": 19,
+          "name": "Electronica ",
+          "slug": "electronica",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:45am",
+          "updated_at": "30-Jul-2013 7:23pm",
+          "old_id": 27,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15886,
+            "tag_id": 19,
+            "weight": 0
+          }
+        },
+        {
+          "id": 45,
+          "name": "EDM",
+          "slug": "edm",
+          "is_active": 1,
+          "created_at": "06-Oct-2012 6:10pm",
+          "updated_at": "30-Jul-2013 7:23pm",
+          "old_id": 58,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15886,
+            "tag_id": 45,
+            "weight": 0
+          }
+        }
+      ],
+      "video_id": "6Zun_zbfhpM",
+      "is_mused": false,
+      "musers": 2
+    },
+    {
+      "id": 15900,
+      "profile_photo_id": 68838,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "video",
+      "resource": "-2i8zEm0vwg",
+      "provider": "youtube",
+      "name": "Sunburn Noida 2012 - Line Up",
+      "description": null,
+      "slug": "sunburn-noida-2012-line-up-v",
+      "is_active": 1,
+      "created_at": "02-Oct-2012 2:15pm",
+      "updated_at": "12-Aug-2015 12:30pm",
+      "old_id": 39,
+      "old_table": "core_videos",
+      "play_count": 60034,
+      "previous_play_count": 60034,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 68838,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/b7e732355dcee07737696826f0f85b94.jpeg",
+        "provider": "url",
+        "name": "Sunburn Noida 2012 - Line Up",
+        "description": null,
+        "slug": "sunburn-noida-2012-line-up-1",
+        "is_active": null,
+        "created_at": "01-Nov-2014 5:32am",
+        "updated_at": "01-Nov-2014 5:32am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/b7e732355dcee07737696826f0f85b94.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/b7e732355dcee07737696826f0f85b94.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/b7e732355dcee07737696826f0f85b94.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/b7e732355dcee07737696826f0f85b94.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/b7e732355dcee07737696826f0f85b94.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/b7e732355dcee07737696826f0f85b94.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/b7e732355dcee07737696826f0f85b94.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/b7e732355dcee07737696826f0f85b94.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/b7e732355dcee07737696826f0f85b94.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 12,
+          "name": "Festival",
+          "slug": "festival",
+          "is_active": 1,
+          "created_at": "27-Sep-2012 6:44pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 16,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15900,
+            "tag_id": 12,
+            "weight": 0
+          }
+        },
+        {
+          "id": 15,
+          "name": "Electronic",
+          "slug": "electronic",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:40am",
+          "updated_at": "09-Mar-2016 12:52am",
+          "old_id": 22,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15900,
+            "tag_id": 15,
+            "weight": 0
+          }
+        },
+        {
+          "id": 45,
+          "name": "EDM",
+          "slug": "edm",
+          "is_active": 1,
+          "created_at": "06-Oct-2012 6:10pm",
+          "updated_at": "30-Jul-2013 7:23pm",
+          "old_id": 58,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15900,
+            "tag_id": 45,
+            "weight": 0
+          }
+        }
+      ],
+      "video_id": "-2i8zEm0vwg",
+      "is_mused": false,
+      "musers": 0
+    },
+    {
+      "id": 15914,
+      "profile_photo_id": 68852,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "video",
+      "resource": "laz3TJMDFmE",
+      "provider": "youtube",
+      "name": "Indian Ocean - Desert Rain",
+      "description": null,
+      "slug": "indian-ocean-desert-rain-v",
+      "is_active": 1,
+      "created_at": "02-Oct-2012 3:27pm",
+      "updated_at": "14-Aug-2015 12:30pm",
+      "old_id": 53,
+      "old_table": "core_videos",
+      "play_count": 206157,
+      "previous_play_count": 206084,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 68852,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/95aed202efd1eafcc22899aa22b9fc59.jpeg",
+        "provider": "url",
+        "name": "Indian Ocean - Desert Rain",
+        "description": null,
+        "slug": "indian-ocean-desert-rain-1",
+        "is_active": null,
+        "created_at": "01-Nov-2014 5:32am",
+        "updated_at": "01-Nov-2014 5:32am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/95aed202efd1eafcc22899aa22b9fc59.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/95aed202efd1eafcc22899aa22b9fc59.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/95aed202efd1eafcc22899aa22b9fc59.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/95aed202efd1eafcc22899aa22b9fc59.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/95aed202efd1eafcc22899aa22b9fc59.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/95aed202efd1eafcc22899aa22b9fc59.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/95aed202efd1eafcc22899aa22b9fc59.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/95aed202efd1eafcc22899aa22b9fc59.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/95aed202efd1eafcc22899aa22b9fc59.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 2,
+          "name": "Original",
+          "slug": "original",
+          "is_active": 1,
+          "created_at": "26-Sep-2012 1:47pm",
+          "updated_at": "12-Dec-2013 2:07pm",
+          "old_id": 2,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15914,
+            "tag_id": 2,
+            "weight": 0
+          }
+        },
+        {
+          "id": 16,
+          "name": "Rock",
+          "slug": "rock",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:41am",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 23,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15914,
+            "tag_id": 16,
+            "weight": 0
+          }
+        },
+        {
+          "id": 33,
+          "name": "Folk ",
+          "slug": "folk",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 5:40pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 42,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15914,
+            "tag_id": 33,
+            "weight": 0
+          }
+        },
+        {
+          "id": 54,
+          "name": "Hindi",
+          "slug": "hindi",
+          "is_active": 1,
+          "created_at": "09-Oct-2012 1:49pm",
+          "updated_at": "04-Mar-2013 1:40pm",
+          "old_id": 70,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15914,
+            "tag_id": 54,
+            "weight": 0
+          }
+        },
+        {
+          "id": 60,
+          "name": "Soft",
+          "slug": "soft",
+          "is_active": 1,
+          "created_at": "09-Oct-2012 4:29pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 76,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15914,
+            "tag_id": 60,
+            "weight": 0
+          }
+        }
+      ],
+      "video_id": "laz3TJMDFmE",
+      "is_mused": false,
+      "musers": 1
+    },
+    {
+      "id": 15915,
+      "profile_photo_id": 68853,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "video",
+      "resource": "bKWKDOiHVDw",
+      "provider": "youtube",
+      "name": "Kandisa - Indian Ocean (Full song)",
+      "description": null,
+      "slug": "kandisa-indian-ocean-full-song-v",
+      "is_active": 1,
+      "created_at": "02-Oct-2012 3:30pm",
+      "updated_at": "14-Aug-2015 12:30pm",
+      "old_id": 54,
+      "old_table": "core_videos",
+      "play_count": 830008,
+      "previous_play_count": 829575,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 68853,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/5961fd799f79baf71f3e0c6e3093ce42.jpeg",
+        "provider": "url",
+        "name": "Kandisa - Indian Ocean (Full song)",
+        "description": null,
+        "slug": "kandisa-indian-ocean-full-song-1",
+        "is_active": null,
+        "created_at": "01-Nov-2014 5:32am",
+        "updated_at": "01-Nov-2014 5:32am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/5961fd799f79baf71f3e0c6e3093ce42.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/5961fd799f79baf71f3e0c6e3093ce42.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/5961fd799f79baf71f3e0c6e3093ce42.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/5961fd799f79baf71f3e0c6e3093ce42.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/5961fd799f79baf71f3e0c6e3093ce42.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/5961fd799f79baf71f3e0c6e3093ce42.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/5961fd799f79baf71f3e0c6e3093ce42.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/5961fd799f79baf71f3e0c6e3093ce42.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/5961fd799f79baf71f3e0c6e3093ce42.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 2,
+          "name": "Original",
+          "slug": "original",
+          "is_active": 1,
+          "created_at": "26-Sep-2012 1:47pm",
+          "updated_at": "12-Dec-2013 2:07pm",
+          "old_id": 2,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15915,
+            "tag_id": 2,
+            "weight": 0
+          }
+        },
+        {
+          "id": 16,
+          "name": "Rock",
+          "slug": "rock",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:41am",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 23,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15915,
+            "tag_id": 16,
+            "weight": 0
+          }
+        },
+        {
+          "id": 34,
+          "name": "Fusion ",
+          "slug": "fusion",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 5:44pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 43,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15915,
+            "tag_id": 34,
+            "weight": 0
+          }
+        },
+        {
+          "id": 54,
+          "name": "Hindi",
+          "slug": "hindi",
+          "is_active": 1,
+          "created_at": "09-Oct-2012 1:49pm",
+          "updated_at": "04-Mar-2013 1:40pm",
+          "old_id": 70,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15915,
+            "tag_id": 54,
+            "weight": 0
+          }
+        },
+        {
+          "id": 60,
+          "name": "Soft",
+          "slug": "soft",
+          "is_active": 1,
+          "created_at": "09-Oct-2012 4:29pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 76,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15915,
+            "tag_id": 60,
+            "weight": 0
+          }
+        }
+      ],
+      "video_id": "bKWKDOiHVDw",
+      "is_mused": false,
+      "musers": 1
+    },
+    {
+      "id": 15916,
+      "profile_photo_id": 68854,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "video",
+      "resource": "YyFDHxy8Z8c",
+      "provider": "youtube",
+      "name": "Maaya - Mohit Chauhan With INdian Ocean Band",
+      "description": null,
+      "slug": "maaya-mohit-chauhan-with-indian-ocean-band-v",
+      "is_active": 1,
+      "created_at": "02-Oct-2012 3:44pm",
+      "updated_at": "14-Aug-2015 12:30pm",
+      "old_id": 55,
+      "old_table": "core_videos",
+      "play_count": 397256,
+      "previous_play_count": 396888,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 68854,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/458a51c3cb853b271c632fe4b2eca6dd.jpeg",
+        "provider": "url",
+        "name": "Maaya - Mohit Chauhan With INdian Ocean Band",
+        "description": null,
+        "slug": "maaya-mohit-chauhan-with-indian-ocean-band-1",
+        "is_active": null,
+        "created_at": "01-Nov-2014 5:32am",
+        "updated_at": "01-Nov-2014 5:32am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/458a51c3cb853b271c632fe4b2eca6dd.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/458a51c3cb853b271c632fe4b2eca6dd.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/458a51c3cb853b271c632fe4b2eca6dd.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/458a51c3cb853b271c632fe4b2eca6dd.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/458a51c3cb853b271c632fe4b2eca6dd.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/458a51c3cb853b271c632fe4b2eca6dd.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/458a51c3cb853b271c632fe4b2eca6dd.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/458a51c3cb853b271c632fe4b2eca6dd.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/458a51c3cb853b271c632fe4b2eca6dd.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 2,
+          "name": "Original",
+          "slug": "original",
+          "is_active": 1,
+          "created_at": "26-Sep-2012 1:47pm",
+          "updated_at": "12-Dec-2013 2:07pm",
+          "old_id": 2,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15916,
+            "tag_id": 2,
+            "weight": 0
+          }
+        },
+        {
+          "id": 16,
+          "name": "Rock",
+          "slug": "rock",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:41am",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 23,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15916,
+            "tag_id": 16,
+            "weight": 0
+          }
+        },
+        {
+          "id": 33,
+          "name": "Folk ",
+          "slug": "folk",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 5:40pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 42,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15916,
+            "tag_id": 33,
+            "weight": 0
+          }
+        },
+        {
+          "id": 34,
+          "name": "Fusion ",
+          "slug": "fusion",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 5:44pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 43,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15916,
+            "tag_id": 34,
+            "weight": 0
+          }
+        },
+        {
+          "id": 54,
+          "name": "Hindi",
+          "slug": "hindi",
+          "is_active": 1,
+          "created_at": "09-Oct-2012 1:49pm",
+          "updated_at": "04-Mar-2013 1:40pm",
+          "old_id": 70,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15916,
+            "tag_id": 54,
+            "weight": 0
+          }
+        }
+      ],
+      "video_id": "YyFDHxy8Z8c",
+      "is_mused": false,
+      "musers": 2
+    },
+    {
+      "id": 15917,
+      "profile_photo_id": 68855,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "video",
+      "resource": "89D-4-ztyIM",
+      "provider": "youtube",
+      "name": "Indian Ocean : Maa Rewa",
+      "description": null,
+      "slug": "indian-ocean-maa-rewa-v",
+      "is_active": 1,
+      "created_at": "02-Oct-2012 3:47pm",
+      "updated_at": "14-Aug-2015 12:30pm",
+      "old_id": 56,
+      "old_table": "core_videos",
+      "play_count": 536369,
+      "previous_play_count": 536139,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 68855,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/efafaeb0180dbd201ef4d26a7f0b48be.jpeg",
+        "provider": "url",
+        "name": "Indian Ocean : Maa Rewa",
+        "description": null,
+        "slug": "indian-ocean-maa-rewa-1",
+        "is_active": null,
+        "created_at": "01-Nov-2014 5:32am",
+        "updated_at": "01-Nov-2014 5:32am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/efafaeb0180dbd201ef4d26a7f0b48be.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/efafaeb0180dbd201ef4d26a7f0b48be.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/efafaeb0180dbd201ef4d26a7f0b48be.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/efafaeb0180dbd201ef4d26a7f0b48be.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/efafaeb0180dbd201ef4d26a7f0b48be.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/efafaeb0180dbd201ef4d26a7f0b48be.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/efafaeb0180dbd201ef4d26a7f0b48be.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/efafaeb0180dbd201ef4d26a7f0b48be.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/efafaeb0180dbd201ef4d26a7f0b48be.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 33,
+          "name": "Folk ",
+          "slug": "folk",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 5:40pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 42,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15917,
+            "tag_id": 33,
+            "weight": 91
+          }
+        },
+        {
+          "id": 34,
+          "name": "Fusion ",
+          "slug": "fusion",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 5:44pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 43,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15917,
+            "tag_id": 34,
+            "weight": 87
+          }
+        },
+        {
+          "id": 54,
+          "name": "Hindi",
+          "slug": "hindi",
+          "is_active": 1,
+          "created_at": "09-Oct-2012 1:49pm",
+          "updated_at": "04-Mar-2013 1:40pm",
+          "old_id": 70,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15917,
+            "tag_id": 54,
+            "weight": 77
+          }
+        }
+      ],
+      "video_id": "89D-4-ztyIM",
+      "is_mused": false,
+      "musers": 1
+    },
+    {
+      "id": 15918,
+      "profile_photo_id": 68856,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "video",
+      "resource": "rE8tf1PIwKA",
+      "provider": "youtube",
+      "name": "MTV Unplugged: Episode 3 - Indian Ocean - Melancholic Ecstasy [HD]",
+      "description": null,
+      "slug": "mtv-unplugged-episode-3-indian-ocean-melancholic-ecstasy-hd-v",
+      "is_active": 1,
+      "created_at": "02-Oct-2012 3:49pm",
+      "updated_at": "14-Aug-2015 12:30pm",
+      "old_id": 57,
+      "old_table": "core_videos",
+      "play_count": 103478,
+      "previous_play_count": 103412,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "profile_photo": {
+        "id": 68856,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/7d56a98cea72b35c5d7de122dfe18487.jpeg",
+        "provider": "url",
+        "name": "MTV Unplugged: Episode 3 - Indian Ocean - Melancholic Ecstasy [HD]",
+        "description": null,
+        "slug": "mtv-unplugged-episode-3-indian-ocean-melancholic-ecstasy-hd-1",
+        "is_active": null,
+        "created_at": "01-Nov-2014 5:32am",
+        "updated_at": "01-Nov-2014 5:32am",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        },
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/7d56a98cea72b35c5d7de122dfe18487.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/7d56a98cea72b35c5d7de122dfe18487.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/7d56a98cea72b35c5d7de122dfe18487.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/7d56a98cea72b35c5d7de122dfe18487.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/7d56a98cea72b35c5d7de122dfe18487.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/7d56a98cea72b35c5d7de122dfe18487.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/7d56a98cea72b35c5d7de122dfe18487.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/7d56a98cea72b35c5d7de122dfe18487.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/7d56a98cea72b35c5d7de122dfe18487.jpeg"
+        }
+      },
+      "tags": [
+        {
+          "id": 13,
+          "name": "Acoustic",
+          "slug": "acoustic",
+          "is_active": 1,
+          "created_at": "27-Sep-2012 6:48pm",
+          "updated_at": "27-Feb-2013 1:44am",
+          "old_id": 20,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15918,
+            "tag_id": 13,
+            "weight": 0
+          }
+        },
+        {
+          "id": 16,
+          "name": "Rock",
+          "slug": "rock",
+          "is_active": 1,
+          "created_at": "04-Oct-2012 2:41am",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 23,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15918,
+            "tag_id": 16,
+            "weight": 2
+          }
+        },
+        {
+          "id": 33,
+          "name": "Folk ",
+          "slug": "folk",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 5:40pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 42,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15918,
+            "tag_id": 33,
+            "weight": 0
+          }
+        },
+        {
+          "id": 34,
+          "name": "Fusion ",
+          "slug": "fusion",
+          "is_active": 1,
+          "created_at": "05-Oct-2012 5:44pm",
+          "updated_at": "11-Dec-2013 6:07pm",
+          "old_id": 43,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15918,
+            "tag_id": 34,
+            "weight": 9
+          }
+        },
+        {
+          "id": 41,
+          "name": "Contemporary ",
+          "slug": "contemporary",
+          "is_active": 1,
+          "created_at": "06-Oct-2012 5:19pm",
+          "updated_at": "30-Jul-2013 7:23pm",
+          "old_id": 54,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15918,
+            "tag_id": 41,
+            "weight": 0
+          }
+        },
+        {
+          "id": 54,
+          "name": "Hindi",
+          "slug": "hindi",
+          "is_active": 1,
+          "created_at": "09-Oct-2012 1:49pm",
+          "updated_at": "04-Mar-2013 1:40pm",
+          "old_id": 70,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 15918,
+            "tag_id": 54,
+            "weight": 0
+          }
+        }
+      ],
+      "video_id": "rE8tf1PIwKA",
+      "is_mused": false,
+      "musers": 2
+    }
+  ],
+  "meta": []
+}
