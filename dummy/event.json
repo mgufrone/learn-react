@@ -1,0 +1,1445 @@
+{
+  "resource": {
+    "id": 15455,
+    "city_id": 1,
+    "profile_photo_id": 235778,
+    "name": "Sanctum Presents Bollywood Blowout ft. DJ Hussain",
+    "about": "Get your groove on this 31st of July at Sanctum to the enticing desi beats. Its Bollywood Blowout night at the club and we have the spectacular DJ Hussain performing live for you with his rocking desi beats. Come out with your friends to dance to the best music Bollywood has to offer. Don’t miss out on a night you will never forget.  Find your sanctuary this Sunday with the best music, food and drinks in the city.\n\nGet on the guest list now by calling www.sanctum.co.in and get ready to party hard!\nVenue:Sanctum Club Bangalore",
+    "starts_at": "01-Aug-2020 3:00am",
+    "ends_at": "01-Aug-2020 6:00am",
+    "slug": "sanctum-presents-bollywood-blowout-ft-dj-hussain-5",
+    "is_active": 1,
+    "created_at": "21-Jun-2016 10:11pm",
+    "updated_at": "11-Jul-2016 7:40pm",
+    "is_featured": 0,
+    "old_id": 0,
+    "old_table": "",
+    "metadata": {
+      "website_url": "",
+      "facebook_url": "http://facebook.com/events/1292797584081000",
+      "soundcloud_url": "",
+      "source": "",
+      "creator_id": "",
+      "creator_name": "",
+      "editor_id": "718",
+      "editor_name": "Disha Bhatnagar",
+      "price": "",
+      "entry_fee": "",
+      "ticketing_url": "",
+      "youtube_url": "",
+      "twitter_url": "",
+      "other": "",
+      "is_published": "0",
+      "entry_details": "",
+      "contact_numbers": "",
+      "is_cancelled": "",
+      "from_venue_app": null
+    },
+    "city": {
+      "id": 1,
+      "country_id": 99,
+      "name": "New Delhi",
+      "slug": "new-delhi",
+      "weight": 100,
+      "is_active": 0,
+      "created_at": "06-Sep-2012 8:57am",
+      "updated_at": "05-May-2016 9:22pm",
+      "old_id": 1,
+      "old_table": "core_cities",
+      "country": {
+        "id": 99,
+        "name": "India",
+        "code": "IN",
+        "is_active": null,
+        "created_at": "30-Nov--0001 12:00am",
+        "updated_at": "30-Nov--0001 12:00am",
+        "old_id": 100,
+        "old_table": "core_countries"
+      }
+    },
+    "tags": [
+      {
+        "id": 8,
+        "name": "Nightclub",
+        "slug": "nightclub",
+        "is_active": 1,
+        "created_at": "27-Sep-2012 6:41pm",
+        "updated_at": "25-Jun-2013 2:11pm",
+        "old_id": 11,
+        "old_table": "core_tags",
+        "pivot": {
+          "tagable_item_id": 15455,
+          "tag_id": 8,
+          "weight": null
+        }
+      },
+      {
+        "id": 15,
+        "name": "Electronic",
+        "slug": "electronic",
+        "is_active": 1,
+        "created_at": "04-Oct-2012 2:40am",
+        "updated_at": "09-Mar-2016 12:52am",
+        "old_id": 22,
+        "old_table": "core_tags",
+        "pivot": {
+          "tagable_item_id": 15455,
+          "tag_id": 15,
+          "weight": null
+        }
+      },
+      {
+        "id": 45,
+        "name": "EDM",
+        "slug": "edm",
+        "is_active": 1,
+        "created_at": "06-Oct-2012 6:10pm",
+        "updated_at": "30-Jul-2013 7:23pm",
+        "old_id": 58,
+        "old_table": "core_tags",
+        "pivot": {
+          "tagable_item_id": 15455,
+          "tag_id": 45,
+          "weight": null
+        }
+      }
+    ],
+    "profile_photo": {
+      "id": 235778,
+      "profile_photo_id": null,
+      "owner_industry_entity_id": null,
+      "owner_industry_member_id": null,
+      "type": "photo",
+      "resource": "http://mj-files.s3.amazonaws.com/bdc90a8efb4bb10eeb4523d3eecbc05a.jpeg",
+      "provider": "url",
+      "name": "Sanctum Presents Bollywood Blowout ft. DJ Hussain",
+      "description": null,
+      "slug": "sanctum-presents-bollywood-blowout-ft-dj-hussain-6",
+      "is_active": null,
+      "created_at": "21-Jun-2016 10:11pm",
+      "updated_at": "21-Jun-2016 10:11pm",
+      "old_id": 0,
+      "old_table": "",
+      "play_count": 0,
+      "previous_play_count": 0,
+      "weight": null,
+      "metadata": {
+        "creator_id": null,
+        "thumb": null
+      },
+      "formats": {
+        "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/bdc90a8efb4bb10eeb4523d3eecbc05a.jpeg",
+        "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/bdc90a8efb4bb10eeb4523d3eecbc05a.jpeg",
+        "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/bdc90a8efb4bb10eeb4523d3eecbc05a.jpeg",
+        "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/bdc90a8efb4bb10eeb4523d3eecbc05a.jpeg",
+        "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/bdc90a8efb4bb10eeb4523d3eecbc05a.jpeg",
+        "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/bdc90a8efb4bb10eeb4523d3eecbc05a.jpeg",
+        "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/bdc90a8efb4bb10eeb4523d3eecbc05a.jpeg",
+        "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/bdc90a8efb4bb10eeb4523d3eecbc05a.jpeg",
+        "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/bdc90a8efb4bb10eeb4523d3eecbc05a.jpeg"
+      }
+    },
+    "industry_connections": [
+      {
+        "id": 44419,
+        "event_id": 15455,
+        "industry_entity_id": 0,
+        "industry_member_id": null,
+        "created_at": "21-Jun-2016 10:11pm",
+        "updated_at": "21-Jun-2016 10:11pm",
+        "old_id": 0,
+        "old_table": "",
+        "weight": null,
+        "industry_entity": null,
+        "tags": [],
+        "industry_member": null
+      },
+      {
+        "id": 44672,
+        "event_id": 15455,
+        "industry_entity_id": 6,
+        "industry_member_id": null,
+        "created_at": "08-Jul-2016 12:27am",
+        "updated_at": "08-Jul-2016 12:27am",
+        "old_id": 0,
+        "old_table": "",
+        "weight": null,
+        "industry_entity": {
+          "id": 6,
+          "type": "artist",
+          "profile_photo_id": 132042,
+          "city_id": 1,
+          "name": "Indian Ocean",
+          "about": "Indian Ocean, the pioneers of the fusion rock genre in India, is an Indian rock band formed in New Delhi in 1990.  Susmit Sen, Asheem Chakravarty, Rahul Ram and Amit Kilam were band members till Chakravarty's death on 25 December 2009, after which Tuheen Chakravorty and Himanshu Joshi were officially inducted into the band as replacements. After the departure of Susmit Sen in 2013, Rahul Ram is the only founding member who appeared on the band's debut album Indian Ocean.\n\nTheir unique sound of Contemporary Rock mixed with classical, jazz and fusion have earned them a cult following. Some of the themes of their songs are inspired from sufi-ism, mythology and environmental issues.\n\nThey've gone out to play a slew of stand-out concerts, enthralling audiences of all ages all over the country and have performed at prestigious festivals abroad including Glastonbury and the Edinburgh Fringe.",
+          "slug": "indian-ocean",
+          "booking_cost_slab_number": 0,
+          "is_active": 1,
+          "is_claimed": 0,
+          "is_published": 0,
+          "created_at": "06-Sep-2012 8:57am",
+          "updated_at": "22-Jul-2016 11:00am",
+          "old_id": 6,
+          "old_table": "core_artists",
+          "weight": 1502,
+          "is_featured": 1,
+          "metadata": {
+            "facebook_url": "http://www.facebook.com/indianoceanmusic",
+            "facebook_id": "0",
+            "soundcloud_url": "https://soundcloud.com/indian-ocean-music",
+            "youtube_identifier": "",
+            "artist_type": "",
+            "contact_numbers": "+919811466634",
+            "contact_emails": "[\"\"]",
+            "email": "indianoceanmusic@gmail.com",
+            "reverbnation": "",
+            "website_url": "http://www.indianoceanmusic.com/",
+            "twitter_url": "@indianoceanband",
+            "venue_open_time": "",
+            "venue_close_time": "",
+            "venue_address": "",
+            "address": "",
+            "timing": "",
+            "entry_details": "",
+            "creator_id": "",
+            "creator_name": "",
+            "editor_id": "1691",
+            "editor_name": "Abhishek Mehra",
+            "latitude": "",
+            "longitude": "",
+            "map_place": "",
+            "rating": "",
+            "featured_photo": "",
+            "type": ""
+          },
+          "profile_photo": {
+            "id": 132042,
+            "profile_photo_id": null,
+            "owner_industry_entity_id": null,
+            "owner_industry_member_id": null,
+            "type": "photo",
+            "resource": "http://mj-files.s3.amazonaws.com/a4036dfa4501438206119a25b6356490.jpeg",
+            "provider": "file",
+            "name": "416160_10150573029710609_1814688894_o.jpg",
+            "description": null,
+            "slug": "416160-10150573029710609-1814688894-ojpg",
+            "is_active": null,
+            "created_at": "17-Aug-2015 10:38pm",
+            "updated_at": "17-Aug-2015 10:38pm",
+            "old_id": 0,
+            "old_table": "",
+            "play_count": 0,
+            "previous_play_count": 0,
+            "weight": null,
+            "metadata": {
+              "creator_id": null,
+              "thumb": null
+            },
+            "formats": {
+              "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/a4036dfa4501438206119a25b6356490.jpeg",
+              "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/a4036dfa4501438206119a25b6356490.jpeg",
+              "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/a4036dfa4501438206119a25b6356490.jpeg",
+              "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/a4036dfa4501438206119a25b6356490.jpeg",
+              "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/a4036dfa4501438206119a25b6356490.jpeg",
+              "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/a4036dfa4501438206119a25b6356490.jpeg",
+              "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/a4036dfa4501438206119a25b6356490.jpeg",
+              "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/a4036dfa4501438206119a25b6356490.jpeg",
+              "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/a4036dfa4501438206119a25b6356490.jpeg"
+            }
+          },
+          "tags": [
+            {
+              "id": 16,
+              "name": "Rock",
+              "slug": "rock",
+              "is_active": 1,
+              "created_at": "04-Oct-2012 2:41am",
+              "updated_at": "11-Dec-2013 6:07pm",
+              "old_id": 23,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 6,
+                "tag_id": 16,
+                "weight": 998
+              }
+            },
+            {
+              "id": 34,
+              "name": "Fusion ",
+              "slug": "fusion",
+              "is_active": 1,
+              "created_at": "05-Oct-2012 5:44pm",
+              "updated_at": "11-Dec-2013 6:07pm",
+              "old_id": 43,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 6,
+                "tag_id": 34,
+                "weight": 1000
+              }
+            },
+            {
+              "id": 639,
+              "name": "Classical",
+              "slug": "classical",
+              "is_active": 1,
+              "created_at": "01-Jun-2016 7:14pm",
+              "updated_at": "03-Jun-2016 9:40pm",
+              "old_id": 0,
+              "old_table": "",
+              "pivot": {
+                "tagable_item_id": 6,
+                "tag_id": 639,
+                "weight": null
+              }
+            },
+            {
+              "id": 649,
+              "name": "Contemporary fusion",
+              "slug": "contemporary-fusion",
+              "is_active": 1,
+              "created_at": "01-Jun-2016 9:11pm",
+              "updated_at": "01-Jun-2016 9:11pm",
+              "old_id": 0,
+              "old_table": "",
+              "pivot": {
+                "tagable_item_id": 6,
+                "tag_id": 649,
+                "weight": null
+              }
+            }
+          ],
+          "preview_videos": [
+            {
+              "id": 16591,
+              "profile_photo_id": 69456,
+              "owner_industry_entity_id": null,
+              "owner_industry_member_id": null,
+              "type": "video",
+              "resource": "ia6bTmTUgDs",
+              "provider": "youtube",
+              "name": "INDIAN OCEAN - Bula Raha Hai [OFFICIAL MUSIC VIDEO] Feat. Rajat Barmecha",
+              "description": null,
+              "slug": "indian-ocean-bula-raha-hai-official-music-video-feat-rajat-barmecha-v",
+              "is_active": 1,
+              "created_at": "26-Feb-2013 7:26pm",
+              "updated_at": "14-Aug-2015 12:31pm",
+              "old_id": 772,
+              "old_table": "core_videos",
+              "play_count": 82577,
+              "previous_play_count": 82544,
+              "weight": null,
+              "pivot": {
+                "mediaable_item_id": 6,
+                "media_id": 16591,
+                "is_preview": 1,
+                "weight": 9
+              },
+              "metadata": {
+                "creator_id": null,
+                "thumb": null
+              },
+              "video_id": "ia6bTmTUgDs"
+            }
+          ],
+          "preview_audios": []
+        },
+        "tags": [],
+        "industry_member": null
+      },
+      {
+        "id": 44671,
+        "event_id": 15455,
+        "industry_entity_id": 178,
+        "industry_member_id": null,
+        "created_at": "08-Jul-2016 12:27am",
+        "updated_at": "08-Jul-2016 12:27am",
+        "old_id": 0,
+        "old_table": "",
+        "weight": null,
+        "industry_entity": {
+          "id": 178,
+          "type": "artist",
+          "profile_photo_id": 9945,
+          "city_id": 1,
+          "name": "Dualist Inquiry",
+          "about": "Dualist Inquiry is the solo electronic project of Sahej Bakshi, a producer, guitarist and composer.\n\nBakshi, who learned to play guitar at age nine, formed a school rock band with actor-musician Imaad Shah while they were at Doon School in Dehradun. Shah was the vocalist and bassist, and Bakshi was the lead guitarist of the group, which performed covers of hits by Rage Against the Machine, Green Day and Blink 182. The band split up after they left school, with Shah coming to Mumbai to study at St. Xavier’s College and Bakshi moving to Los Angeles to study at the Thornton School of Music.\n\nSince returning to Delhi after graduation, Sahej has been touring India extensively. In addition to being selected to perform at Berlin Music Week in Sept 2010, He was also ranked #1 nationally in the Burn Sasha Tour remix competition (2010) and was the 2nd Runner Up in the MTV Submerge Ultimate Pro DJ Championship 2010, held at Blue Frog in Mumbai. \n\nHe released his debut EP Dualism in June 2011, featuring a collaboration on ‘Qualia’ with Monica Dogra, vocalist of electro-rock outfit, Shaa’ir + Func. Bakshi released his debut LP Doppelganger in March 2013 on Dualism Records.",
+          "slug": "dualist-inquiry",
+          "booking_cost_slab_number": 0,
+          "is_active": 1,
+          "is_claimed": 0,
+          "is_published": 0,
+          "created_at": "06-Sep-2012 8:57am",
+          "updated_at": "22-Jul-2016 11:00am",
+          "old_id": 217,
+          "old_table": "core_artists",
+          "weight": 1502.5,
+          "is_featured": 0,
+          "metadata": {
+            "facebook_url": "http://www.facebook.com/dualistinquiry/info",
+            "facebook_id": "0",
+            "soundcloud_url": "http://soundcloud.com/dualistinquiry",
+            "youtube_identifier": "https://www.youtube.com/user/dualistinquiry",
+            "artist_type": "",
+            "contact_numbers": "[\"BOOKING and MANAGEMENT I Nihaal Poonja +91 9920585595\"]",
+            "contact_emails": "[\"dualistinquiry@gmail.com\\r\",\"\\r\",\"nihaal@oml.in\"]",
+            "email": "",
+            "reverbnation": "",
+            "website_url": "http://www.dualistinquiry.com/",
+            "twitter_url": "DualistInquiry",
+            "venue_open_time": "",
+            "venue_close_time": "",
+            "venue_address": "",
+            "address": "",
+            "timing": "",
+            "entry_details": "",
+            "creator_id": "",
+            "creator_name": "",
+            "editor_id": "1691",
+            "editor_name": "Abhishek Mehra",
+            "latitude": "",
+            "longitude": "",
+            "map_place": "",
+            "rating": "",
+            "featured_photo": "",
+            "type": ""
+          },
+          "profile_photo": {
+            "id": 9945,
+            "profile_photo_id": null,
+            "owner_industry_entity_id": null,
+            "owner_industry_member_id": null,
+            "type": "photo",
+            "resource": "http://mj-files.s3.amazonaws.com/42c59bcc5efc9d548bf943b7eccaae3c.jpg",
+            "provider": null,
+            "name": null,
+            "description": "",
+            "slug": "1600",
+            "is_active": 1,
+            "created_at": "08-Oct-2012 6:00am",
+            "updated_at": "23-Apr-2013 12:05am",
+            "old_id": 273,
+            "old_table": "core_photos",
+            "play_count": 0,
+            "previous_play_count": 0,
+            "weight": null,
+            "metadata": {
+              "creator_id": null,
+              "thumb": null
+            },
+            "formats": {
+              "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/42c59bcc5efc9d548bf943b7eccaae3c.jpg",
+              "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/42c59bcc5efc9d548bf943b7eccaae3c.jpg",
+              "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/42c59bcc5efc9d548bf943b7eccaae3c.jpg",
+              "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/42c59bcc5efc9d548bf943b7eccaae3c.jpg",
+              "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/42c59bcc5efc9d548bf943b7eccaae3c.jpg",
+              "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/42c59bcc5efc9d548bf943b7eccaae3c.jpg",
+              "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/42c59bcc5efc9d548bf943b7eccaae3c.jpg",
+              "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/42c59bcc5efc9d548bf943b7eccaae3c.jpg",
+              "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/42c59bcc5efc9d548bf943b7eccaae3c.jpg"
+            }
+          },
+          "tags": [
+            {
+              "id": 19,
+              "name": "Electronica ",
+              "slug": "electronica",
+              "is_active": 1,
+              "created_at": "04-Oct-2012 2:45am",
+              "updated_at": "30-Jul-2013 7:23pm",
+              "old_id": 27,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 178,
+                "tag_id": 19,
+                "weight": null
+              }
+            },
+            {
+              "id": 46,
+              "name": "Electro",
+              "slug": "electro",
+              "is_active": 1,
+              "created_at": "06-Oct-2012 6:11pm",
+              "updated_at": "17-Nov-2012 1:04pm",
+              "old_id": 59,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 178,
+                "tag_id": 46,
+                "weight": null
+              }
+            }
+          ],
+          "preview_videos": [
+            {
+              "id": 15884,
+              "profile_photo_id": 68823,
+              "owner_industry_entity_id": null,
+              "owner_industry_member_id": null,
+              "type": "video",
+              "resource": "7so7GxsCLos",
+              "provider": "youtube",
+              "name": "The Music Project : Dualist Inquiry",
+              "description": null,
+              "slug": "the-music-project-dualist-inquiry-v",
+              "is_active": 1,
+              "created_at": "01-Oct-2012 7:21pm",
+              "updated_at": "14-Aug-2015 12:30pm",
+              "old_id": 23,
+              "old_table": "core_videos",
+              "play_count": 77872,
+              "previous_play_count": 77834,
+              "weight": null,
+              "pivot": {
+                "mediaable_item_id": 178,
+                "media_id": 15884,
+                "is_preview": 1,
+                "weight": 10
+              },
+              "metadata": {
+                "creator_id": null,
+                "thumb": null
+              },
+              "video_id": "7so7GxsCLos"
+            }
+          ],
+          "preview_audios": []
+        },
+        "tags": [
+          {
+            "id": 104,
+            "name": "Headliner ",
+            "slug": "headliner",
+            "is_active": 1,
+            "created_at": "30-Sep-2013 8:51pm",
+            "updated_at": "30-Sep-2013 8:51pm",
+            "old_id": 125,
+            "old_table": "core_tags",
+            "pivot": {
+              "tagable_item_id": 44671,
+              "tag_id": 104,
+              "weight": null
+            }
+          }
+        ],
+        "industry_member": null
+      },
+      {
+        "id": 44918,
+        "event_id": 15455,
+        "industry_entity_id": 196,
+        "industry_member_id": null,
+        "created_at": "17-Jul-2016 2:28pm",
+        "updated_at": "17-Jul-2016 2:28pm",
+        "old_id": 0,
+        "old_table": "",
+        "weight": null,
+        "industry_entity": {
+          "id": 196,
+          "type": "artist",
+          "profile_photo_id": 153308,
+          "city_id": 14,
+          "name": "Hari & Sukhmani",
+          "about": "Two individuals, one band. The duo is on a mission to create refreshing and inspiring soulful songs which is an amalgamation of traditional Punjabi music, ambient Electronica and everything in between. From traces of rap to lyrics inspired from famous Sufi poets like Bulleh Shah, Baba Farid, Kabir and Shah Hussain, the more you'll search, the more you'll find. \n\nThey have also appeared on various TV shows and Radio Broadcasts such as BBC Radio UK, MTV Coke Studio, Star World’s The Dewarists, Fox Traveller’s Sound Trek, Tehelka Music Project and many more.\n\nTheir collaborations with artists such as Noori (Pakistan), Arshad Khan (Israj Player), Thu Le (Vietnam, Western guitarist), Trilok Gurtu (Percussionist), Fakhruddin Ghaffari (Iran, Percussionist) and Earthstage (Indian Jazz Band) have allowed their music to cut across various platforms, genres, audiences and even borders and be heard around the world.\n\nThe band’s motto is to leave behind cultural, religious, and racial divides and to bring a transformation in the society through their music.\n\nIf you haven't heard about them, you're probably  living under a rock. Go check them out!",
+          "slug": "hari-sukhmani",
+          "booking_cost_slab_number": 4,
+          "is_active": 1,
+          "is_claimed": 0,
+          "is_published": 0,
+          "created_at": "06-Sep-2012 8:57am",
+          "updated_at": "22-Jul-2016 11:00am",
+          "old_id": 237,
+          "old_table": "core_artists",
+          "weight": 1506,
+          "is_featured": 0,
+          "metadata": {
+            "facebook_url": "http://www.facebook.com/pages/Hari-Sukhmani/103467873106?sk=info",
+            "facebook_id": "0",
+            "soundcloud_url": "http://soundcloud.com/harisukhmani",
+            "youtube_identifier": "https://www.youtube.com/user/sukhmanim",
+            "artist_type": "",
+            "contact_numbers": "+91 9810058388",
+            "contact_emails": "[\"\"]",
+            "email": "hari.sukhmani@gmail.com",
+            "reverbnation": "",
+            "website_url": "http://www.harisukhmani.com",
+            "twitter_url": "",
+            "venue_open_time": "",
+            "venue_close_time": "",
+            "venue_address": "",
+            "address": "",
+            "timing": "",
+            "entry_details": "",
+            "creator_id": "",
+            "creator_name": "",
+            "editor_id": "682",
+            "editor_name": "Rishab Mehra",
+            "latitude": "",
+            "longitude": "",
+            "map_place": "",
+            "rating": "",
+            "featured_photo": "http://mj-files.s3.amazonaws.com/590a77700a8a5af0ab505f35d54b26d8.jpg",
+            "type": ""
+          },
+          "profile_photo": {
+            "id": 153308,
+            "profile_photo_id": null,
+            "owner_industry_entity_id": null,
+            "owner_industry_member_id": null,
+            "type": "photo",
+            "resource": "http://mj-files.s3.amazonaws.com/2116abbc50ff8f81ab51ebce893b94c6.jpeg",
+            "provider": "file",
+            "name": "527711-usher-in-the-new-years-with-hari-sukhmani-live.jpg",
+            "description": null,
+            "slug": "527711-usher-in-the-new-years-with-hari-sukhmani-livejpg",
+            "is_active": null,
+            "created_at": "23-Oct-2015 11:56pm",
+            "updated_at": "23-Oct-2015 11:56pm",
+            "old_id": 0,
+            "old_table": "",
+            "play_count": 0,
+            "previous_play_count": 0,
+            "weight": null,
+            "metadata": {
+              "creator_id": null,
+              "thumb": null
+            },
+            "formats": {
+              "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/2116abbc50ff8f81ab51ebce893b94c6.jpeg",
+              "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/2116abbc50ff8f81ab51ebce893b94c6.jpeg",
+              "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/2116abbc50ff8f81ab51ebce893b94c6.jpeg",
+              "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/2116abbc50ff8f81ab51ebce893b94c6.jpeg",
+              "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/2116abbc50ff8f81ab51ebce893b94c6.jpeg",
+              "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/2116abbc50ff8f81ab51ebce893b94c6.jpeg",
+              "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/2116abbc50ff8f81ab51ebce893b94c6.jpeg",
+              "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/2116abbc50ff8f81ab51ebce893b94c6.jpeg",
+              "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/2116abbc50ff8f81ab51ebce893b94c6.jpeg"
+            }
+          },
+          "tags": [
+            {
+              "id": 14,
+              "name": "Instrumental ",
+              "slug": "instrumental",
+              "is_active": 1,
+              "created_at": "27-Sep-2012 6:49pm",
+              "updated_at": "27-Sep-2012 6:49pm",
+              "old_id": 21,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 196,
+                "tag_id": 14,
+                "weight": null
+              }
+            },
+            {
+              "id": 15,
+              "name": "Electronic",
+              "slug": "electronic",
+              "is_active": 1,
+              "created_at": "04-Oct-2012 2:40am",
+              "updated_at": "09-Mar-2016 12:52am",
+              "old_id": 22,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 196,
+                "tag_id": 15,
+                "weight": null
+              }
+            },
+            {
+              "id": 19,
+              "name": "Electronica ",
+              "slug": "electronica",
+              "is_active": 1,
+              "created_at": "04-Oct-2012 2:45am",
+              "updated_at": "30-Jul-2013 7:23pm",
+              "old_id": 27,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 196,
+                "tag_id": 19,
+                "weight": null
+              }
+            },
+            {
+              "id": 34,
+              "name": "Fusion ",
+              "slug": "fusion",
+              "is_active": 1,
+              "created_at": "05-Oct-2012 5:44pm",
+              "updated_at": "11-Dec-2013 6:07pm",
+              "old_id": 43,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 196,
+                "tag_id": 34,
+                "weight": null
+              }
+            }
+          ],
+          "preview_videos": [
+            {
+              "id": 17563,
+              "profile_photo_id": 70366,
+              "owner_industry_entity_id": null,
+              "owner_industry_member_id": null,
+              "type": "video",
+              "resource": "C4NijhejNn4",
+              "provider": "youtube",
+              "name": "'Chhalla' - Hari & Sukhmani, Coke Studio @ MTV Season 2",
+              "description": null,
+              "slug": "chhalla-hari-sukhmani-coke-studio-mtv-season-2-v",
+              "is_active": 1,
+              "created_at": "15-Nov-2013 6:41pm",
+              "updated_at": "14-Aug-2015 12:32pm",
+              "old_id": 1783,
+              "old_table": "core_videos",
+              "play_count": 592958,
+              "previous_play_count": 591845,
+              "weight": null,
+              "pivot": {
+                "mediaable_item_id": 196,
+                "media_id": 17563,
+                "is_preview": 1,
+                "weight": 3
+              },
+              "metadata": {
+                "creator_id": null,
+                "thumb": null
+              },
+              "video_id": "C4NijhejNn4"
+            }
+          ],
+          "preview_audios": []
+        },
+        "tags": [],
+        "industry_member": null
+      },
+      {
+        "id": 44696,
+        "event_id": 15455,
+        "industry_entity_id": 628,
+        "industry_member_id": null,
+        "created_at": "08-Jul-2016 3:02pm",
+        "updated_at": "08-Jul-2016 3:02pm",
+        "old_id": 0,
+        "old_table": "",
+        "weight": null,
+        "industry_entity": {
+          "id": 628,
+          "type": "artist",
+          "profile_photo_id": 108426,
+          "city_id": 54,
+          "name": "Blue Temptation",
+          "about": "Nathan and Greg formed 'Blue Temptation' on 28 Jan 2010. Well, the name speaks for itself that when the band pays any song regardless of which genre, there is always a feeling involved and the ‘Blues’ is all that comes out. There is always like a temptation to play the blues and to dwell in its warm embrace.\n\nAs session musicians, Nathan and Greg have played some gigs around Shillong, which is their home time, with well known local artists.\n\nAs time goes by and love for music grows, these two brothers decided to take their musical abilities to the next level - influencing many with the music they produce.\n\nShepherd Najiar a close friend and musical companion of the brothers decided to join in their musical journey a day after it was formed.\n\nThe band started out as a three piece with Greg on drums, Nathan on bass and Shepherd on guitars. \n\nWith many gigs and shows in their book, the band came to know many people and among them, came along a friend who instantly bonded with the band. Realizing the need for a second guitarist, Greg shifted to guitars and Daryl who is the drummer from the band Polyticks, stepped in to experience the ' Blue Temptation ‘, which is a feeling that sometimes take the band to a place out of this world … ",
+          "slug": "blue-temptation",
+          "booking_cost_slab_number": null,
+          "is_active": 1,
+          "is_claimed": 0,
+          "is_published": 0,
+          "created_at": "06-Sep-2012 8:57am",
+          "updated_at": "08-Jul-2016 3:02pm",
+          "old_id": 723,
+          "old_table": "core_artists",
+          "weight": 0,
+          "is_featured": 0,
+          "metadata": {
+            "facebook_url": "http://www.facebook.com/pages/Blue-Temptation/307859470139",
+            "facebook_id": "307859470139",
+            "soundcloud_url": "",
+            "youtube_identifier": "",
+            "artist_type": "",
+            "contact_numbers": "+91 9863192285",
+            "contact_emails": "",
+            "email": "bluetemptation69@gmail.com",
+            "reverbnation": "",
+            "website_url": "",
+            "twitter_url": "",
+            "venue_open_time": "",
+            "venue_close_time": "",
+            "venue_address": "",
+            "address": "",
+            "timing": null,
+            "entry_details": "",
+            "creator_id": "",
+            "creator_name": "",
+            "editor_id": null,
+            "editor_name": null,
+            "latitude": null,
+            "longitude": null,
+            "map_place": null,
+            "rating": null,
+            "featured_photo": null,
+            "type": null
+          },
+          "profile_photo": {
+            "id": 108426,
+            "profile_photo_id": null,
+            "owner_industry_entity_id": null,
+            "owner_industry_member_id": null,
+            "type": "photo",
+            "resource": "http://mj-files.s3.amazonaws.com/cec4cd88505512536aaf9b1b23ba5a14.jpeg",
+            "provider": "file",
+            "name": "blue temptation.jpg",
+            "description": null,
+            "slug": "blue-temptationjpg",
+            "is_active": null,
+            "created_at": "24-Jul-2015 11:38pm",
+            "updated_at": "24-Jul-2015 11:38pm",
+            "old_id": 0,
+            "old_table": "",
+            "play_count": 0,
+            "previous_play_count": 0,
+            "weight": null,
+            "metadata": {
+              "creator_id": null,
+              "thumb": null
+            },
+            "formats": {
+              "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/cec4cd88505512536aaf9b1b23ba5a14.jpeg",
+              "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/cec4cd88505512536aaf9b1b23ba5a14.jpeg",
+              "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/cec4cd88505512536aaf9b1b23ba5a14.jpeg",
+              "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/cec4cd88505512536aaf9b1b23ba5a14.jpeg",
+              "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/cec4cd88505512536aaf9b1b23ba5a14.jpeg",
+              "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/cec4cd88505512536aaf9b1b23ba5a14.jpeg",
+              "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/cec4cd88505512536aaf9b1b23ba5a14.jpeg",
+              "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/cec4cd88505512536aaf9b1b23ba5a14.jpeg",
+              "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/cec4cd88505512536aaf9b1b23ba5a14.jpeg"
+            }
+          },
+          "tags": [
+            {
+              "id": 13,
+              "name": "Acoustic",
+              "slug": "acoustic",
+              "is_active": 1,
+              "created_at": "27-Sep-2012 6:48pm",
+              "updated_at": "27-Feb-2013 1:44am",
+              "old_id": 20,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 628,
+                "tag_id": 13,
+                "weight": 1883
+              }
+            },
+            {
+              "id": 21,
+              "name": "Blues",
+              "slug": "blues",
+              "is_active": 1,
+              "created_at": "05-Oct-2012 3:53pm",
+              "updated_at": "05-Nov-2012 3:23pm",
+              "old_id": 29,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 628,
+                "tag_id": 21,
+                "weight": 815
+              }
+            },
+            {
+              "id": 35,
+              "name": "Jazz",
+              "slug": "jazz",
+              "is_active": 1,
+              "created_at": "05-Oct-2012 5:59pm",
+              "updated_at": "05-Nov-2012 3:23pm",
+              "old_id": 44,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 628,
+                "tag_id": 35,
+                "weight": 1825
+              }
+            },
+            {
+              "id": 63,
+              "name": "Funk",
+              "slug": "funk",
+              "is_active": 1,
+              "created_at": "10-Oct-2012 4:53pm",
+              "updated_at": "11-Dec-2013 6:07pm",
+              "old_id": 82,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 628,
+                "tag_id": 63,
+                "weight": null
+              }
+            }
+          ],
+          "preview_videos": [],
+          "preview_audios": []
+        },
+        "tags": [],
+        "industry_member": null
+      },
+      {
+        "id": 44421,
+        "event_id": 15455,
+        "industry_entity_id": 3431,
+        "industry_member_id": null,
+        "created_at": "21-Jun-2016 10:12pm",
+        "updated_at": "21-Jun-2016 10:12pm",
+        "old_id": 0,
+        "old_table": "",
+        "weight": null,
+        "industry_entity": {
+          "id": 3431,
+          "type": "artist",
+          "profile_photo_id": 85796,
+          "city_id": 1,
+          "name": "DJ Hussain",
+          "about": "Bollywood DJ",
+          "slug": "dj-hussain",
+          "booking_cost_slab_number": null,
+          "is_active": 1,
+          "is_claimed": 0,
+          "is_published": 0,
+          "created_at": "19-Jun-2015 1:39am",
+          "updated_at": "19-Jun-2015 1:39am",
+          "old_id": 0,
+          "old_table": "",
+          "weight": 0,
+          "is_featured": 0,
+          "metadata": {
+            "facebook_url": "https://www.facebook.com/dj.hussain.5",
+            "facebook_id": null,
+            "soundcloud_url": null,
+            "youtube_identifier": null,
+            "artist_type": null,
+            "contact_numbers": null,
+            "contact_emails": null,
+            "email": null,
+            "reverbnation": null,
+            "website_url": null,
+            "twitter_url": null,
+            "venue_open_time": null,
+            "venue_close_time": null,
+            "venue_address": null,
+            "address": null,
+            "timing": null,
+            "entry_details": null,
+            "creator_id": null,
+            "creator_name": null,
+            "editor_id": null,
+            "editor_name": null,
+            "latitude": null,
+            "longitude": null,
+            "map_place": null,
+            "rating": null,
+            "featured_photo": null,
+            "type": null
+          },
+          "profile_photo": {
+            "id": 85796,
+            "profile_photo_id": null,
+            "owner_industry_entity_id": null,
+            "owner_industry_member_id": null,
+            "type": "photo",
+            "resource": "http://mj-files.s3.amazonaws.com/57d1bac9c00da73fdf08ebd3a613510b.jpeg",
+            "provider": "file",
+            "name": "DJ Hussain.jpg",
+            "description": null,
+            "slug": "dj-hussainjpg",
+            "is_active": null,
+            "created_at": "19-Jun-2015 1:38am",
+            "updated_at": "19-Jun-2015 1:38am",
+            "old_id": 0,
+            "old_table": "",
+            "play_count": 0,
+            "previous_play_count": 0,
+            "weight": null,
+            "metadata": {
+              "creator_id": null,
+              "thumb": null
+            },
+            "formats": {
+              "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/57d1bac9c00da73fdf08ebd3a613510b.jpeg",
+              "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/57d1bac9c00da73fdf08ebd3a613510b.jpeg",
+              "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/57d1bac9c00da73fdf08ebd3a613510b.jpeg",
+              "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/57d1bac9c00da73fdf08ebd3a613510b.jpeg",
+              "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/57d1bac9c00da73fdf08ebd3a613510b.jpeg",
+              "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/57d1bac9c00da73fdf08ebd3a613510b.jpeg",
+              "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/57d1bac9c00da73fdf08ebd3a613510b.jpeg",
+              "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/57d1bac9c00da73fdf08ebd3a613510b.jpeg",
+              "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/57d1bac9c00da73fdf08ebd3a613510b.jpeg"
+            }
+          },
+          "tags": [
+            {
+              "id": 15,
+              "name": "Electronic",
+              "slug": "electronic",
+              "is_active": 1,
+              "created_at": "04-Oct-2012 2:40am",
+              "updated_at": "09-Mar-2016 12:52am",
+              "old_id": 22,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 3431,
+                "tag_id": 15,
+                "weight": null
+              }
+            },
+            {
+              "id": 209,
+              "name": "Bollywood",
+              "slug": "bollywood",
+              "is_active": 1,
+              "created_at": "06-Sep-2012 8:57am",
+              "updated_at": "06-Sep-2012 8:57am",
+              "old_id": 54,
+              "old_table": "core_genres",
+              "pivot": {
+                "tagable_item_id": 3431,
+                "tag_id": 209,
+                "weight": null
+              }
+            }
+          ],
+          "preview_videos": [
+            {
+              "id": 89001,
+              "profile_photo_id": 88999,
+              "owner_industry_entity_id": null,
+              "owner_industry_member_id": null,
+              "type": "video",
+              "resource": "mMCGHEYJBss",
+              "provider": "youtube",
+              "name": "Bollywood Re-loaded Dj Hussain live at pebbles, bangalore.",
+              "description": null,
+              "slug": "bollywood-re-loaded-dj-hussain-live-at-pebbles-bangalore-1",
+              "is_active": null,
+              "created_at": "29-Jun-2015 8:31pm",
+              "updated_at": "14-Aug-2015 12:38pm",
+              "old_id": 0,
+              "old_table": "",
+              "play_count": 672,
+              "previous_play_count": 670,
+              "weight": null,
+              "pivot": {
+                "mediaable_item_id": 3431,
+                "media_id": 89001,
+                "is_preview": 1,
+                "weight": null
+              },
+              "metadata": {
+                "creator_id": null,
+                "thumb": null
+              },
+              "video_id": "mMCGHEYJBss"
+            }
+          ],
+          "preview_audios": []
+        },
+        "tags": [
+          {
+            "id": 104,
+            "name": "Headliner ",
+            "slug": "headliner",
+            "is_active": 1,
+            "created_at": "30-Sep-2013 8:51pm",
+            "updated_at": "30-Sep-2013 8:51pm",
+            "old_id": 125,
+            "old_table": "core_tags",
+            "pivot": {
+              "tagable_item_id": 44421,
+              "tag_id": 104,
+              "weight": null
+            }
+          }
+        ],
+        "industry_member": null
+      },
+      {
+        "id": 44785,
+        "event_id": 15455,
+        "industry_entity_id": 5336,
+        "industry_member_id": null,
+        "created_at": "11-Jul-2016 7:40pm",
+        "updated_at": "11-Jul-2016 7:40pm",
+        "old_id": 0,
+        "old_table": "",
+        "weight": null,
+        "industry_entity": {
+          "id": 5336,
+          "type": "venue",
+          "profile_photo_id": 211123,
+          "city_id": 1,
+          "name": "Band Stand",
+          "about": "Welcome to Bandstand.\nA space curated to offer traditional classic cocktails complemented by fresh and simple tapas and a range of Mediterranean and world fusion inspired dishes .\nIt is also essentially a live music venue in the heart of the city (Delhi) located at Aurobindo market, with the sole purpose of bringing musicians together to create an ambiance filled with reminiscence of music of the days past, and some of the best talent on show today. Both curated perfectly to make you wanting for more.\nThe food on offer ranges from a variety of well known tapas to salads and sandwiches and a blend of your favourite bar fare choices.\nIt also has a large outdoor balcony area, where one can enjoy the view of the markets passers by.\nAnd if it's just a drink at your neighborhood bar that appeals to you then the spacious bar counter is just what you're looking for.\n\nWhat Bandstand offers is a chic- chilled out space to come enjoy a few classic cocktails, with some great food and even better music.",
+          "slug": "band-stand",
+          "booking_cost_slab_number": 0,
+          "is_active": 1,
+          "is_claimed": 0,
+          "is_published": 0,
+          "created_at": "21-Jan-2016 12:00am",
+          "updated_at": "24-May-2016 8:40pm",
+          "old_id": 0,
+          "old_table": "",
+          "weight": 1690,
+          "is_featured": 1,
+          "metadata": {
+            "facebook_url": "https://www.facebook.com/BandStand-1612545852300397/timeline",
+            "facebook_id": "",
+            "soundcloud_url": "",
+            "youtube_identifier": "",
+            "artist_type": "",
+            "contact_numbers": "09810200318",
+            "contact_emails": "",
+            "email": "hello@thebackyardlove.in",
+            "reverbnation": "",
+            "website_url": "http://www.thebackyardlove.in",
+            "twitter_url": "",
+            "venue_open_time": "",
+            "venue_close_time": "",
+            "venue_address": "7, DDA Shopping Complex, Aurobindo Place, Hauz Khas Village, New Delhi",
+            "address": "",
+            "timing": "12 Noon to 1 am",
+            "entry_details": "",
+            "creator_id": "",
+            "creator_name": "",
+            "editor_id": "693",
+            "editor_name": "Vishal Ranjan",
+            "latitude": "28.55237689999999",
+            "longitude": "77.20345470000007",
+            "map_place": "Aurobindo Market, Sri Aurobindo Marg, Block C 2, Bhim Nagri, Hauz Khas, New Delhi",
+            "rating": "",
+            "featured_photo": "",
+            "type": "For entry details contact on 09810200318 or Simply visit Bandstand & reserve your place."
+          },
+          "profile_photo": {
+            "id": 211123,
+            "profile_photo_id": null,
+            "owner_industry_entity_id": null,
+            "owner_industry_member_id": null,
+            "type": "photo",
+            "resource": "http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+            "provider": "file",
+            "name": "12144804_1680792878809027_3454839874124401300_n.jpg",
+            "description": null,
+            "slug": "12144804-1680792878809027-3454839874124401300-njpg",
+            "is_active": null,
+            "created_at": "21-Apr-2016 10:52pm",
+            "updated_at": "21-Apr-2016 10:52pm",
+            "old_id": 0,
+            "old_table": "",
+            "play_count": 0,
+            "previous_play_count": 0,
+            "weight": null,
+            "metadata": {
+              "creator_id": null,
+              "thumb": null
+            },
+            "formats": {
+              "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+              "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+              "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+              "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+              "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+              "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+              "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+              "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+              "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg"
+            }
+          },
+          "tags": [
+            {
+              "id": 9,
+              "name": "Bar",
+              "slug": "bar",
+              "is_active": 1,
+              "created_at": "27-Sep-2012 6:41pm",
+              "updated_at": "27-Sep-2012 6:41pm",
+              "old_id": 12,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 5336,
+                "tag_id": 9,
+                "weight": null
+              }
+            },
+            {
+              "id": 10,
+              "name": "Lounge",
+              "slug": "lounge",
+              "is_active": 1,
+              "created_at": "27-Sep-2012 6:42pm",
+              "updated_at": "27-Sep-2012 6:42pm",
+              "old_id": 13,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 5336,
+                "tag_id": 10,
+                "weight": null
+              }
+            },
+            {
+              "id": 11,
+              "name": "Pub",
+              "slug": "pub",
+              "is_active": 1,
+              "created_at": "27-Sep-2012 6:42pm",
+              "updated_at": "27-Sep-2012 6:42pm",
+              "old_id": 14,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 5336,
+                "tag_id": 11,
+                "weight": null
+              }
+            },
+            {
+              "id": 72,
+              "name": "Dance ",
+              "slug": "dance",
+              "is_active": 1,
+              "created_at": "12-Feb-2013 7:16pm",
+              "updated_at": "04-Aug-2013 6:57pm",
+              "old_id": 93,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 5336,
+                "tag_id": 72,
+                "weight": null
+              }
+            },
+            {
+              "id": 83,
+              "name": "Night Club",
+              "slug": "night-club",
+              "is_active": 1,
+              "created_at": "25-Jun-2013 2:12pm",
+              "updated_at": "04-Aug-2013 6:57pm",
+              "old_id": 104,
+              "old_table": "core_tags",
+              "pivot": {
+                "tagable_item_id": 5336,
+                "tag_id": 83,
+                "weight": null
+              }
+            },
+            {
+              "id": 536,
+              "name": "Club",
+              "slug": "club",
+              "is_active": 1,
+              "created_at": "31-May-2015 12:50am",
+              "updated_at": "31-May-2015 12:50am",
+              "old_id": 0,
+              "old_table": "",
+              "pivot": {
+                "tagable_item_id": 5336,
+                "tag_id": 536,
+                "weight": null
+              }
+            }
+          ],
+          "preview_videos": [],
+          "preview_audios": []
+        },
+        "tags": [],
+        "industry_member": null
+      }
+    ],
+    "venue": {
+      "id": 5336,
+      "type": "venue",
+      "profile_photo_id": 211123,
+      "city_id": 1,
+      "name": "Band Stand",
+      "about": "Welcome to Bandstand.\nA space curated to offer traditional classic cocktails complemented by fresh and simple tapas and a range of Mediterranean and world fusion inspired dishes .\nIt is also essentially a live music venue in the heart of the city (Delhi) located at Aurobindo market, with the sole purpose of bringing musicians together to create an ambiance filled with reminiscence of music of the days past, and some of the best talent on show today. Both curated perfectly to make you wanting for more.\nThe food on offer ranges from a variety of well known tapas to salads and sandwiches and a blend of your favourite bar fare choices.\nIt also has a large outdoor balcony area, where one can enjoy the view of the markets passers by.\nAnd if it's just a drink at your neighborhood bar that appeals to you then the spacious bar counter is just what you're looking for.\n\nWhat Bandstand offers is a chic- chilled out space to come enjoy a few classic cocktails, with some great food and even better music.",
+      "slug": "band-stand",
+      "booking_cost_slab_number": 0,
+      "is_active": 1,
+      "is_claimed": 0,
+      "is_published": 0,
+      "created_at": "21-Jan-2016 12:00am",
+      "updated_at": "24-May-2016 8:40pm",
+      "old_id": 0,
+      "old_table": "",
+      "weight": 1690,
+      "is_featured": 1,
+      "metadata": {
+        "facebook_url": "https://www.facebook.com/BandStand-1612545852300397/timeline",
+        "facebook_id": "",
+        "soundcloud_url": "",
+        "youtube_identifier": "",
+        "artist_type": "",
+        "contact_numbers": "09810200318",
+        "contact_emails": "",
+        "email": "hello@thebackyardlove.in",
+        "reverbnation": "",
+        "website_url": "http://www.thebackyardlove.in",
+        "twitter_url": "",
+        "venue_open_time": "",
+        "venue_close_time": "",
+        "venue_address": "7, DDA Shopping Complex, Aurobindo Place, Hauz Khas Village, New Delhi",
+        "address": "",
+        "timing": "12 Noon to 1 am",
+        "entry_details": "",
+        "creator_id": "",
+        "creator_name": "",
+        "editor_id": "693",
+        "editor_name": "Vishal Ranjan",
+        "latitude": "28.55237689999999",
+        "longitude": "77.20345470000007",
+        "map_place": "Aurobindo Market, Sri Aurobindo Marg, Block C 2, Bhim Nagri, Hauz Khas, New Delhi",
+        "rating": "",
+        "featured_photo": "",
+        "type": "For entry details contact on 09810200318 or Simply visit Bandstand & reserve your place."
+      },
+      "profile_photo": {
+        "id": 211123,
+        "profile_photo_id": null,
+        "owner_industry_entity_id": null,
+        "owner_industry_member_id": null,
+        "type": "photo",
+        "resource": "http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+        "provider": "file",
+        "name": "12144804_1680792878809027_3454839874124401300_n.jpg",
+        "description": null,
+        "slug": "12144804-1680792878809027-3454839874124401300-njpg",
+        "is_active": null,
+        "created_at": "21-Apr-2016 10:52pm",
+        "updated_at": "21-Apr-2016 10:52pm",
+        "old_id": 0,
+        "old_table": "",
+        "play_count": 0,
+        "previous_play_count": 0,
+        "weight": null,
+        "formats": {
+          "micro": "http://thumbor.musejam.com/unsafe/100x100/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+          "thumb": "http://thumbor.musejam.com/unsafe/250x250/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+          "rectangle": "http://thumbor.musejam.com/unsafe/468x181/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+          "home-rectangle": "http://thumbor.musejam.com/unsafe/468x250/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+          "video-rectangle": "http://thumbor.musejam.com/unsafe/215x170/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+          "profile": "http://thumbor.musejam.com/unsafe/300x300/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+          "feed-small": "http://thumbor.musejam.com/unsafe/255x255/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+          "feed-rectangle": "http://thumbor.musejam.com/unsafe/540x181/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg",
+          "mj-feed-artist": "http://thumbor.musejam.com/unsafe/167x167/smart/http://mj-files.s3.amazonaws.com/4c1732005fa910f0851d380ec79b06d9.jpeg"
+        },
+        "metadata": {
+          "creator_id": null,
+          "thumb": null
+        }
+      },
+      "tags": [
+        {
+          "id": 9,
+          "name": "Bar",
+          "slug": "bar",
+          "is_active": 1,
+          "created_at": "27-Sep-2012 6:41pm",
+          "updated_at": "27-Sep-2012 6:41pm",
+          "old_id": 12,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 5336,
+            "tag_id": 9,
+            "weight": null
+          }
+        },
+        {
+          "id": 10,
+          "name": "Lounge",
+          "slug": "lounge",
+          "is_active": 1,
+          "created_at": "27-Sep-2012 6:42pm",
+          "updated_at": "27-Sep-2012 6:42pm",
+          "old_id": 13,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 5336,
+            "tag_id": 10,
+            "weight": null
+          }
+        },
+        {
+          "id": 11,
+          "name": "Pub",
+          "slug": "pub",
+          "is_active": 1,
+          "created_at": "27-Sep-2012 6:42pm",
+          "updated_at": "27-Sep-2012 6:42pm",
+          "old_id": 14,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 5336,
+            "tag_id": 11,
+            "weight": null
+          }
+        },
+        {
+          "id": 72,
+          "name": "Dance ",
+          "slug": "dance",
+          "is_active": 1,
+          "created_at": "12-Feb-2013 7:16pm",
+          "updated_at": "04-Aug-2013 6:57pm",
+          "old_id": 93,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 5336,
+            "tag_id": 72,
+            "weight": null
+          }
+        },
+        {
+          "id": 83,
+          "name": "Night Club",
+          "slug": "night-club",
+          "is_active": 1,
+          "created_at": "25-Jun-2013 2:12pm",
+          "updated_at": "04-Aug-2013 6:57pm",
+          "old_id": 104,
+          "old_table": "core_tags",
+          "pivot": {
+            "tagable_item_id": 5336,
+            "tag_id": 83,
+            "weight": null
+          }
+        },
+        {
+          "id": 536,
+          "name": "Club",
+          "slug": "club",
+          "is_active": 1,
+          "created_at": "31-May-2015 12:50am",
+          "updated_at": "31-May-2015 12:50am",
+          "old_id": 0,
+          "old_table": "",
+          "pivot": {
+            "tagable_item_id": 5336,
+            "tag_id": 536,
+            "weight": null
+          }
+        }
+      ],
+      "preview_videos": [],
+      "preview_audios": [],
+      "city": {
+        "id": 1,
+        "country_id": 99,
+        "name": "New Delhi",
+        "slug": "new-delhi",
+        "weight": 100,
+        "is_active": 0,
+        "created_at": "06-Sep-2012 8:57am",
+        "updated_at": "05-May-2016 9:22pm",
+        "old_id": 1,
+        "old_table": "core_cities"
+      }
+    },
+    "timing": "1 Aug, 2020 3:00am to 6:00am",
+    "is_mused": false,
+    "musers": 5,
+    "mused_artists": [],
+    "previewAudio": null,
+    "previewVideo": null
+  },
+  "meta": []
+}
