@@ -29,7 +29,7 @@ export default class PerformingArtists extends Component{
       </TouchableHighlight>
     });
     return(
-      <View style={{padding:10,}}>
+      <View style={{padding:20}}>
         <Text style={{color:'#000',fontSize:14,marginBottom:10}}>Performing Artists</Text>
         <ScrollView horizontal={true} showsHorizontalScrollIndicator={false} style={{flexDirection:'row'}}>
           {contents}

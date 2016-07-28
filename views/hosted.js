@@ -17,7 +17,7 @@ export default class Hosted extends Component{
   }
   render(){
     return (
-      <View style={{padding:10}}>
+      <View style={{padding:20}}>
         <View style={{flexDirection:'row',marginBottom:20}}>
           <Text style={{fontSize:15}}>Hosted By </Text>
           <TouchableOpacity onPress={()=>this.venueClick(this.props.venue)}>
