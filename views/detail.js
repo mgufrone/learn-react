@@ -8,11 +8,12 @@ import {
   View,
   Button,
   Image,
-  TouchableHighlight
+  TouchableOpacity
 } from 'react-native';
 import MuseTags from './tags';
 import Hosted from './hosted';
 import PerformingArtists from './performing-artists';
+import Icon from 'react-native-vector-icons/FontAwesome';
 import TabbedContent from './tabbed-content';
 class MuseTitle extends Component{
   constructor(props){
@@ -20,12 +21,15 @@ class MuseTitle extends Component{
   }
   render(){
     return(
-      <View>
-        <Text style={{fontSize: 20}}>{this.props.title}</Text>
-        <TouchableHighlight onPress={this.museClick} style={styles.button}
-            underlayColor='#99d9f4'>
-          <Text style={styles.buttonText}>Location</Text>
-        </TouchableHighlight>
+      <View style={{flexDirection:'row',padding:10,justifyContent:'center'}}>
+        <Text style={{fontSize: 20,flex:0.8}}>{this.props.title}</Text>
+        <TouchableOpacity onPress={this.museClick} style={styles.button}
+            underlayColor='#EF4B4C'>
+            <View style={{flexDirection:'row',padding:5,alignItems:'center',justifyContent:'center'}}>
+              <Icon name="heart-o" size={16} color="#EF4B4C" style={{marginRight:5}} />
+              <Text style={styles.buttonText}>Muse</Text>
+            </View>
+        </TouchableOpacity>
       </View>
     );
   }
@@ -39,9 +43,9 @@ class MuseAbout extends Component{
   }
   render(){
     return(
-      <View>
-        <Text style={{fontSize: 15}}>About</Text>
-        <Text style={{fontSize: 13}}>{this.props.about}</Text>
+      <View style={{paddingTop:10,paddingBottom:15,paddingLeft:10,paddingRight:10,borderBottomWidth:1,borderColor:'#f0f0f0'}}>
+        <Text style={{fontSize: 15,color:'#000',marginBottom:5}}>About</Text>
+        <Text style={{fontSize: 12,lineHeight:20}}>{this.props.about}</Text>
       </View>
     );
   }
@@ -54,7 +58,7 @@ export default class Cover extends Component{
     super(props);
   }
   render(){
-    var detail = this.props.detail;
+    var {detail} = this.props;
     var cover = {
       uri: detail.profile_photo.resource
     }
@@ -69,7 +73,7 @@ export default class Cover extends Component{
       return industry.industry_entity.type == 'artist';
     });
     var date = [detail.starts_at,detail.ends_at];
-    var city = detail.city;
+    var {city} = detail;
     return (
       <View style={{flexDirection:'column'}}>
         <Image source={cover} style={{resizeMode: 'stretch','width':Dimensions.get('window').width,'height':155}}/>
@@ -78,25 +82,24 @@ export default class Cover extends Component{
         <Hosted venue={venue} date={date} city={city}/>
         <MuseAbout about={detail.about}/>
         <PerformingArtists artists={artists}/>
-        <TabbedContent></TabbedContent>
       </View>
     );
   }
 };
 var styles = StyleSheet.create({
   buttonText: {
-  fontSize: 18,
-  color: 'white',
-  alignSelf: 'center'
+    fontSize: 18,
+    color: '#EF4B4C',
+    alignSelf: 'center'
   },
   button: {
     height: 36,
-    flex: 1,
+    flex: 0.2,
     flexDirection: 'row',
-    backgroundColor: '#48BBEC',
-    borderColor: '#48BBEC',
+    backgroundColor: '#ffffff',
+    borderColor: '#EF4B4C',
     borderWidth: 1,
-    borderRadius: 4,
+    borderRadius: 5,
     marginBottom: 10,
     alignSelf: 'stretch',
     justifyContent: 'center'

@@ -9,7 +9,7 @@ import {
   Button,
   Image,
   ListView,
-  TouchableHighlight
+  TouchableOpacity
 } from 'react-native';
 
 export default class MuseTags extends Component{
@@ -22,15 +22,24 @@ export default class MuseTags extends Component{
   }
   render(){
     var content = this.props.tags.map((tag,key) =>{
-      return <TouchableHighlight key={key} onPress={()=>this.tagClick(tag)}>
+      var style = {
+        borderColor:'#c0c0c0',
+        borderWidth: 1,
+        borderRadius: 20,
+        paddingTop:5,
+        paddingLeft:5,
+        paddingBottom:5,
+        paddingRight:5,
+        marginLeft: key==0?0:10
+      }
+      return <TouchableOpacity style={style} key={key} onPress={()=>this.tagClick(tag)}>
         <Text style={{
-        fontSize: 13,
-        marginLeft: 10,
-        color: '#303030',}}>{tag.name}</Text>
-      </TouchableHighlight>
+        fontSize: 11,
+        color: '#c0c0c0',}}>{tag.name}</Text>
+      </TouchableOpacity>
     });
     return(
-      <View style={{alignItems:'flex-start',flexDirection:'row',}}>
+      <View style={{alignItems:'flex-start',flexDirection:'row',padding:10}}>
         {content}
       </View>
     );

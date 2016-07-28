@@ -8,6 +8,7 @@ import {
   Button,
   Image,
   ListView,
+  ScrollView,
   TouchableHighlight
 } from 'react-native';
 
@@ -22,15 +23,17 @@ export default class PerformingArtists extends Component{
 
   render(){
     var key = 0;
-    var contents = this.props.artists.map((artist)=>{
-      key+=1;
+    var contents = this.props.artists.map((artist,key)=>{
       return <TouchableHighlight key={key} onPress={()=>this.artistClick(artist)}>
-        <Image source={{uri: artist.industry_entity.profile_photo.formats.micro}} style={{width:100,height:100}}/>
+        <Image source={{uri: artist.industry_entity.profile_photo.formats.micro}} style={{width:80,height:80,marginLeft:key==0?0:10}}/>
       </TouchableHighlight>
     });
     return(
-      <View style={{alignItems: 'stretch',flexDirection:'row'}}>
-        {contents}
+      <View style={{padding:10,}}>
+        <Text style={{color:'#000',fontSize:14,marginBottom:10}}>Performing Artists</Text>
+        <ScrollView horizontal={true} showsHorizontalScrollIndicator={false} style={{flexDirection:'row'}}>
+          {contents}
+        </ScrollView>
       </View>
     );
   }
