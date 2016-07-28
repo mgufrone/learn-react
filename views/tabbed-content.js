@@ -186,7 +186,12 @@ export default class TabbedContent extends Component{
       </View>
       <View style={{alignItems:'stretch',flexDirection:'row'}}>
         <TouchableHighlight style={{flex:0.3}}>
-            <Image source={{uri:video.profile_photo.formats.micro}} style={{width:100,height:100}}/>
+            <View>
+              <Image source={{uri:video.profile_photo.formats.micro}} style={{width:100,height:100}}/>
+              <View style={{position:'absolute',top:0,left:0,width:100,height:100,alignItems:'center',justifyContent:'center'}}>
+                <Icon name="play-circle-o" size={40} color="rgba(255,255,255,0.8)"/>
+              </View>
+            </View>
         </TouchableHighlight>
         <View style={{flex:0.7}}>
           <View style={{flex:0.8}}>

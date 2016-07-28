@@ -21,7 +21,7 @@ class MuseTitle extends Component{
   }
   render(){
     return(
-      <View style={{flexDirection:'row',padding:20,justifyContent:'center'}}>
+      <View style={{flexDirection:'row',paddingLeft:20,paddingRight:20,paddingTop:10,paddingBottom:10,justifyContent:'center'}}>
         <Text style={{fontSize: 20,flex:0.8}}>{this.props.title}</Text>
         <TouchableOpacity onPress={this.museClick} style={styles.button}
             underlayColor='#EF4B4C'>
@@ -82,7 +82,9 @@ export default class Cover extends Component{
       <View style={{flexDirection:'column',backgroundColor:'#fff'}}>
         <Image source={cover} style={{resizeMode: 'stretch','flex':1,'height':200}}/>
         <MuseTitle title={detail.name}></MuseTitle>
-        <MuseTags border={true} usePadding={true} tags={detail.tags}></MuseTags>
+        <View style={{paddingLeft:20,paddingRight:20}}>
+          <MuseTags border={true} usePadding={true} tags={detail.tags}></MuseTags>
+        </View>
         <Hosted venue={venue} date={date} city={city}/>
         <MuseAbout about={detail.about}/>
         <PerformingArtists artists={artists}/>

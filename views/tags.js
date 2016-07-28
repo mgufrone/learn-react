@@ -39,7 +39,7 @@ export default class MuseTags extends Component{
       </TouchableOpacity>
     });
     return(
-      <View style={{alignItems:'flex-start',flexDirection:'row',padding:this.props.usePadding?20:0}}>
+      <View style={{alignItems:'flex-start',flexDirection:'row'}}>
         {content}
       </View>
     );
